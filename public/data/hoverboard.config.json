@@ -14,8 +14,8 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "title": "GDG DevFest Buenos Aires 2015",
+          "youtubeId": "vL7dAVihuPI",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,
@@ -258,9 +258,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLCDIutLaQECO8QCyA6k4HckQcLadK1RfB",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "vL7dAVihuPI"
   }
 }
