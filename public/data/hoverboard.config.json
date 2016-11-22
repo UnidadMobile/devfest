@@ -143,29 +143,12 @@
     "url": "https://devfest16.eventbrite.com.ar",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 0,
+        "currency": "$",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
