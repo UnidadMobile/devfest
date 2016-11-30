@@ -14,9 +14,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "DevFest Baires 2015",
+          "youtubeId": "vL7dAVihuPI",
+          "text": ""
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -77,59 +77,17 @@
       "key": "en"
     },
     {
-      "name": "Українська",
-      "key": "uk"
-    },
-    {
       "name": "Español",
       "key": "es"
     }
   ],
   "footerBlocks": [
     {
-      "title": "for-visitors",
-      "links": [
-        {
-          "text": "team",
-          "url": "/team/"
-        },
-        {
-          "text": "cod",
-          "url": "/cod/"
-        },
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
       "title": "for-partners",
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://drive.google.com/file/d/0ByoQ8u8IrvxGSnFUNWpVTkc4QUlQdTBnTGplNlRiSU8xX0pn/view",
           "newTab": true
         }
       ]
@@ -212,7 +170,7 @@
     }
   },
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyCp4KyC17-z6UgqnVgpxQj_8RuJP-GbO8E",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
       "latitude": -34.617178,
@@ -228,9 +186,9 @@
       "/images/backgrounds/location_2.jpg"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLCDIutLaQECO8QCyA6k4HckQcLadK1RfB",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "vL7dAVihuPI"
   }
 }
