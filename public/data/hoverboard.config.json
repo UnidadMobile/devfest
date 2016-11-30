@@ -14,9 +14,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "DevFest Baires 2015",
+          "youtubeId": "vL7dAVihuPI",
+          "text": ""
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -189,6 +189,6 @@
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoId": "vL7dAVihuPI"
   }
 }
