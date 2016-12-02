@@ -3,156 +3,126 @@
     "title": "Core Team",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Juan Manuel Baiutti",
+        "photoUrl": "https://lh3.googleusercontent.com/Iaa8hB4L4JICT5d9Ct4bqX3xpsW__HLZVQC8mrRb1QyoTj-5AZkFJmPgtOml6Sa7lbqcCFknIw=w1366-h768-rw-no",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "google.com/+JuanmaBaiutti",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "@juanmab",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Website and sponsors"
+        "title": "Project Manager, Manager de GDG Buenos Aires"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Yury Camacho",
+        "photoUrl": "https://lh3.googleusercontent.com/-4TQM4uQuQ-c/AAAAAAAAAAI/AAAAAAAAHRQ/bkHlSlGdQhw/s120-p-rw-no/photo.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "google.com/+YuryCamacho",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
-          {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/camachoyury",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Speakers"
+        "title": "Mobile Technical Lead en Globant"
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Jorge Cano",
+        "photoUrl": "https://lh3.googleusercontent.com/0iT0FOwTu-m1P3xhrFCS02ocO2PD4GlbiQvOMuZVtNeH2Fu0-xvChYnm9kwulWHiJE2P5rGykNyZrw=w5120-h3200-rw-no/photo.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
+            "link": "google.com/+JorgeCanojc",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/p1f",
+            "link": "https://twitter.com/jorgeucano",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Sponsors"
+        "title": "Google Developer Expert: Web Technologies, Angular"
       },
       {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "name": "Gustavo Cardelle",
+        "photoUrl": "https://lh6.googleusercontent.com/-2blXIg9egdI/T70GNsiSkBI/AAAAAAAAMYI/Z2Mt-nHaEkg/s300-no/Gustavo-Cardelle-G%252B.png",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
+            "link": "google.com/+GustavoCardelle",
             "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
+            "link": "https://www.twitter.com/gu5tavo71",
             "name": "Twitter"
           }
         ],
-        "title": "Speakers"
+        "title": "Consultor IT, Manager de GDG Buenos Aires"
       },
       {
-        "name": "Diana Pinchuk",
+        "name": "Leonardo Condori",
+        "photoUrl": "https://lh3.googleusercontent.com/OdiILrqrGjOhQRRxWFPMxfEppFww7o-vlZAH9zRmNv8T2hbmp2XHxm4ubSfFFEhcfKMrdhhApgg=w5120-h3200-rw-no/photo.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "google.com/+LeonardoCondori",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/leocondori",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Periodista y Programador"
+      },
+      {
+        "name": "Juan Irungaray",
+        "photoUrl": "https://lh3.googleusercontent.com/-xB6EHqyETqc/AAAAAAAAAAI/AAAAAAAAX5U/bgaelqjOnx0/s120-p-rw-no/photo.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "google.com/+JuanIrungaray",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/jirungaray",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Developer Relations Program Manager @ Google, Co-Founder GDG Buenos Aires"
+      },
+      {
+        "name": "Andrés Villanueva",
+        "photoUrl": "https://lh3.googleusercontent.com/-9-WqHdvM9QM/AAAAAAAAAAI/AAAAAAAAEOw/jKa4y5Lpzi0/s120-p-rw-no/photo.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "google.com/+AndresVillanuevand",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/villanuevand",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Frontend Developer. ngVenezuela Community Lead &  @bairesweb Co-founder."
+      },
+      {
+        "name": "Agustina Vemi",
         "photoUrl": "/images/people/diana_pinchuk.jpg",
         "socials": [
           {
@@ -167,50 +137,23 @@
           }
         ],
         "title": "Social and media"
-      }
-    ]
-  },
-  {
-    "title": "Program Committee",
-    "members": [
-      {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
-        ],
-        "title": "Cloud stream"
       },
       {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Valeria Viva",
+        "photoUrl": "https://lh3.googleusercontent.com/dLx2wkJQO7WW-1wdNefkfVzwHqrlYEPw_Nv_c-e9fvoA7rfzTEdja0Uo2YItWP22zyxj7fOgRA=w5120-h3200-rw-no",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
+            "link": "https://plus.google.com/+ValeriaViva",
             "name": "Google+"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
+            "link": "https://www.twitter.com/valeriaviva",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
           }
         ],
-        "title": "Android Stream"
+        "title": "Ingeniera, escritora, tecnóloga y emprendedora"
       }
     ]
   }
