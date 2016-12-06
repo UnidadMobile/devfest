@@ -250,10 +250,12 @@
           var cardRect = videos[videos.length - 1].getBoundingClientRect();
           var cardWidth = cardRect.width;
           var newX = -(this._currentIndex + 1) * cardWidth;
-          if (this._currentIndex >= 0 && this._currentIndex < videos.length - 1) {
+          var max = videos.length / 3;
+          if ( this._currentIndex >= 0 && this._currentIndex <= max && this._currentIndex < videos.length - 1) {
             this.$.videos.style.transform = 'translate3d(' + newX + 'px, 0, 0)';
             this._currentIndex++;
           }
+          
         }
 
       });
