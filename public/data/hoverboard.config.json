@@ -162,10 +162,10 @@
   "gallery": {
     "albumUrl": "https://drive.google.com/drive/folders/0Bzuw1cvTH9kkY3MtWVNJbnBZams",
     "photos": {
-      "big": "/images/home_images/DSCN7995.JPG",
+      "big": "/images/home_images/DSCN7995.jpg",
       "small": [
-        "/images/home_images/IMG_9066.JPG",
-        "/images/home_images/DSCN8018.JPG"
+        "/images/home_images/IMG_9066.jpg",
+        "/images/home_images/DSCN8018.jpg"
       ]
     }
   },
