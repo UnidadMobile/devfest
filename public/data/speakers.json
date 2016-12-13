@@ -2,7 +2,7 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Mete Atamel",
+        "name": "Daniel Monastersky",
         "title": "Developer Advocate",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -39,7 +39,7 @@
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Yonatan Levin",
+        "name": "Jorge Cano",
         "title": "Android Evangelist & Developer",
         "company": "Gett",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -81,7 +81,7 @@
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Sascha Wolter",
+        "name": "Alejandro Oviedo",
         "title": "Senior Developer Evangelist Connected Home",
         "company": "Duetsche Telekom AG - Group Innovation+",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -118,7 +118,7 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Rustem Arzymbetov",
+        "name": "German Kuber",
         "title": "Software Engineer",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -145,7 +145,7 @@
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Adrian Kajda",
+        "name": "Nicolas Bello",
         "title": "Product Manager/Developer",
         "company": "Sygic",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -171,7 +171,7 @@
     "6": {
         "id": 6,
         "featured": true,
-        "name": "Gerard Sans",
+        "name": "Ignacio Anaya",
         "title": "Technical Evangelist",
         "company": "AngularZone",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -207,7 +207,7 @@
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Jozef Vodicka",
+        "name": "Eze Sculli",
         "title": "Developer Relations Program Manager",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -248,7 +248,7 @@
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Mateusz Herych",
+        "name": "Hernan Liendo",
         "title": "Android Tech Lead",
         "company": "IG",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -295,7 +295,7 @@
     "9": {
         "id": 9,
         "featured": false,
-        "name": "David Mayboroda",
+        "name": "Leonardo Pittelli",
         "title": "Android Engineer",
         "company": "SoftServe",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -326,7 +326,7 @@
     "10": {
         "id": 10,
         "featured": true,
-        "name": "Konrad Dzwinel",
+        "name": "Mati Molina",
         "title": "Front-End Engineer",
         "company": "Brainly",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -367,7 +367,7 @@
     "11": {
         "id": 11,
         "featured": false,
-        "name": "Jean-Baptiste Clion",
+        "name": "Mike Dorka",
         "title": "Founder",
         "company": "Apeser",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -413,7 +413,7 @@
     "12": {
         "id": 12,
         "featured": true,
-        "name": "Paul Lammertsma",
+        "name": "Yury Camacho",
         "title": "CTO",
         "company": "Pixplicity",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -449,7 +449,7 @@
     "13": {
         "id": 13,
         "featured": false,
-        "name": "Aleksander Piotrowski",
+        "name": "Fran Kalaidyjan",
         "title": "Code Monkey",
         "company": "Applause",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -490,7 +490,7 @@
     "14": {
         "id": 14,
         "featured": false,
-        "name": "Carmen Popovicu",
+        "name": "Hernan Rajchert",
         "title": "Front-end Engineer",
         "company": "Widespread",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -523,7 +523,7 @@
     "15": {
         "id": 15,
         "featured": true,
-        "name": "Sergii Khomenko",
+        "name": "Mariano Vazquez",
         "title": "Data Scientist",
         "company": "Stylight",
         "companyLogo": "/images/logos/gdg-lviv.svg",
@@ -550,7 +550,7 @@
     "17": {
         "id": 17,
         "featured": false,
-        "name": "Jana Moudra",
+        "name": "Eduardo Casarero",
         "title": "Co-Founder",
         "company": "Juicymo",
         "companyLogo": "/images/logos/gdg-lviv.svg",
