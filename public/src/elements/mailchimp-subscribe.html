@@ -53,7 +53,39 @@
     </style>
 
     <div id="mc_embed_signup" class="mc_embed_signup">
-      <form
+
+      <p>Rellene el siguiente formulario para suscribirse.</p>
+      <form enctype="application/x-www-form-urlencoded" action="http://gtug.ip-zone.com/ccm/subscribe/index/form/uumwbujri1" method="post">
+      <dl class="zend_form">
+      <dt id="groups-label"> </dt>
+      <dd id="groups-element">
+      <input type="hidden" name="groups[]" value="1"></dd>
+      <dt id="name-label">
+      <label for="name" class="optional">Nombre</label>
+      </dt>
+      <dd id="name-element">
+      <input type="text" name="name" id="name" value=""></dd>
+      <dt id="email-label">
+      <label for="email" class="required">Email</label>
+      </dt>
+      <dd id="email-element">
+      <input type="text" name="email" id="email" value=""></dd>
+      <dt id="submit-label"> </dt>
+      <dd id="submit-element">
+      <input type="submit" name="submit" id="submit" value="Suscribir"></dd>
+      <dt id="successUrl-label"> </dt>
+      <dd id="successUrl-element">
+      <input type="hidden" name="successUrl" value="http://www.gdg.com.ar/mailingcomplete.html" id="successUrl"></dd>
+      <dt id="errorUrl-label"> </dt>
+      <dd id="errorUrl-element">
+      <input type="hidden" name="errorUrl" value="http://www.gdg.com.ar/mailingerror.html" id="errorUrl"></dd>
+      <dt id="confirmationUrl-label"> </dt>
+      <dd id="confirmationUrl-element">
+      <input type="hidden" name="confirmationUrl" value="http://www.gdg.com.ar/mailingconfirmed.html" id="confirmationUrl"></dd>
+      </dl>
+      </form>
+      <p> <a href="http://mailrelay.com" target="_blank">enviar newsletter gratis</a> by Mailrelay </p>
+      <!--form
         id="mc-embedded-subscribe-form"
         class="mc-embedded-subscribe-form validate"
         action="[[url]]"
@@ -70,7 +102,7 @@
           </paper-input-container>
           <paper-button class="subscribe-button" on-click="submitForm">[[localize('subscribe')]]</paper-button>
         </div>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups 
         <div style="position: absolute; left: -5000px;">
           <input type="text" name="[[ name ]]" tabindex="-1">
         </div>
@@ -78,7 +110,7 @@
           <input type="submit" value$="[[localize('subscribe')]]" name="subscribe" id="mc-embedded-subscribe"
                  style="display:none">
         </div>
-      </form>
+      </form-->
     </div>
 
   </template>
