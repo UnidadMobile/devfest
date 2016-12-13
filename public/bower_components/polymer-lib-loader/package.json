@@ -1,0 +1,29 @@
+{
+  "name": "polymer-lib-loader",
+  "version": "0.2.0",
+  "description": "Polymer (ES6) external (or internal) library loader component",
+  "main": "lib-loader.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LasaleFamine/polymer-lib-loader.git"
+  },
+  "scripts": {
+    "start": "gulp watch",
+    "test": "standard lib-loader.es6.js && wct",
+    "build": "gulp",
+    "fix": "standard lib-loader.es6.js --fix"
+  },
+  "author": "Alessio Occhipinti @lasalefamine",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.9",
+    "standard": "^8.1.0",
+    "web-component-tester": "^4.3.4"
+  }
+}

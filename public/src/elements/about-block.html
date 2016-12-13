@@ -4,6 +4,9 @@
 
 <link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
+<link rel="import" href="../../bower_components/polymer-twitter-timeline/twitter-timeline.html">
+
+
 <link rel="import" href="../behaviors/localize-behavior.html">
 
 
@@ -65,11 +68,12 @@
       <div class="about-item">
         <h4 class="heading">[[localize('what-is-gdg')]]</h4>
         <marked-element markdown="[[localize('about-gdg')]]">
-          <div class="markdown-html"></div>
+          <div class="markdown-html" style="padding-right: 7%;"></div>
         </marked-element>
       </div>
-    </div>
-
+      <twitter-timeline data-widget-id="808662342624022528"></twitter-timeline>
+  </div>
+ 
   </template>
 
   <script>
@@ -85,7 +89,6 @@
         ]
 
       });
-
     }());
   </script>
 </dom-module>

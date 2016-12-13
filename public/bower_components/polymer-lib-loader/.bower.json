@@ -1,0 +1,35 @@
+{
+  "name": "polymer-lib-loader",
+  "main": "lib-loader.js",
+  "version": "0.2.0",
+  "authors": [
+    "LasaleFamine <info@godev.space>"
+  ],
+  "description": "Polymer (ES6) external (or internal) library loader component",
+  "keywords": [
+    "library loader",
+    "polymer",
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LasaleFamine/polymer-lib-loader#readme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.7.0"
+  },
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "804e9640f308db9ed32e81a0470add26e968e6df"
+  },
+  "_source": "https://github.com/LasaleFamine/polymer-lib-loader.git",
+  "_target": "^0.2.0",
+  "_originalSource": "polymer-lib-loader"
+}

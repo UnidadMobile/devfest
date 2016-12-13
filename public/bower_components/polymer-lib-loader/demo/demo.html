@@ -1,0 +1,45 @@
+<!-- <link rel="import" href="../../polymer/polymer.html"> -->
+<link rel="import" href="../lib-loader.html">
+
+<dom-module id="demo-page">
+    <template>
+        <style>
+          #editor {
+            height: 400px;
+          }
+        </style>
+        <h3>Basic lib-loader demo</h3>
+        <div id="editor"></div>
+        <lib-loader id="loader" lib="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.5/ace.js" lib-unique-id="aceEditor" on-lib-loaded="aceLoaded"></lib-loader>
+        <button on-click="detachElement">Detach lib</button>
+        <button on-click="detachDemo">Detach demo</button>
+        <template is="dom-if" if="[[readyAce]]">
+          Testing readyAce property
+        </template>
+    </template>
+    <script>
+        Polymer({
+            is: "demo-page",
+            properties: {
+              readyAce: {
+                type: Boolean,
+                value: false
+              }
+            },
+            attached: function () {
+            },
+            aceLoaded: function () {
+              console.log('loaded')
+              ace.edit('editor')
+              this.set('readyAce', true)
+            },
+            detachElement: function () {
+              this.$.loader.remove()
+            },
+            detachDemo: function () {
+              this.remove()
+            }
+        });
+
+    </script>
+</dom-module>
