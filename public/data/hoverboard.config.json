@@ -160,12 +160,12 @@
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://drive.google.com/drive/folders/0Bzuw1cvTH9kkY3MtWVNJbnBZams",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/home_images/DSCN7995.JPG",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/home_images/IMG_9066.JPG",
+        "/images/home_images/DSCN8018.JPG"
       ]
     }
   },
