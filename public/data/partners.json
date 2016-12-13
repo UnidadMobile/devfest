@@ -1,72 +1,76 @@
 [
   {
-    "title": "template-creator",
+    "title": "sponsors",
     "logos": [
       {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
+        "name": "Belatrix",
+        "url": "http://www.belatrixsf.com/",
+        "logoUrl": "../images/logos/Logo_Belatrix_350.png"
+      },
+      {
+        "name": "MuleSoft",
+        "url": "https://www.mulesoft.com/",
+        "logoUrl": "../images/logos/Logo_MuleSoft.svg"
+      },
+      {
+        "name": "UADE",
+        "url": "https://www.uade.edu.ar",
+        "logoUrl": "../images/logos/Logo_UADE_350.png"
+      },
+      {
+        "name": "Plataforma 5",
+        "url": "https://plataforma5.la/",
+        "logoUrl": "../images/logos/Logo_Plataforma5.svg"
+      },
+      {
+        "name": "NG-BAIRES",
+        "url": "https://www.meetup.com/es-ES/NG-BAIRES",
+        "logoUrl": "../images/logos/Logo_NgBaires_Full.png"
+      },
+      {
+        "name": "SYSARMY",
+        "url": "https://www.sysarmy.com.ar/",
+        "logoUrl": "../images/logos/Logo_SysArmy_250.png"
+      },
+      {
+        "name": "Blowapp",
+        "url": "http://blowapp.com.ar/",
+        "logoUrl": "../images/logos/Blowapp_negro.png"
+      },
+      {
+        "name": "XimpleHR",
+        "url": "http://www.ximplehr.com/es/",
+        "logoUrl": "../images/logos/logo-ximple-para-calcos.png"
+      },
+      {
+        "name": "GOOGLE Developers",
+        "url": "https://developers.google.com/",
+        "logoUrl": "../images/logos/Logo_Google_Developers_Gris.png"
       }
     ]
   },
   {
-    "title": "general-partner",
+    "title": "media-partner",
     "logos": [
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name":"Baires Web",
+        "url": "https://www.meetup.com/bairesweb",
+        "logoUrl": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/c/9/4/global_454796468.jpeg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
+        "name":"Buenos Aires Cloud Computing",
+        "url": "https://www.meetup.com/es-ES/Buenos-Aires-Cloud-Computing/",
+        "logoUrl": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/d/0/global_406082512.jpeg"
       },
       {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name":"Net Baires",
+        "url": "https://www.meetup.com/es-ES/Net-Baires/",
+        "logoUrl": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/6/5/8/global_456650776.jpeg"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg"
+        "name":"Node School Buenos Aires",
+        "url": "https://nodeschool.io/buenosaires/",
+        "logoUrl": "https://pbs.twimg.com/profile_images/590351413747781632/WwVY_SDu_400x400.jpg"
       }
     ]
   }
