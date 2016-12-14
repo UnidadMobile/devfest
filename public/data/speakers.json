@@ -34,15 +34,17 @@
         "company": "",
         "companyLogo": "",
         "country": "Buenos Aires, Argentina",
-        "photoUrl": "https://lh6.googleusercontent.com/WU6_SRG5Un0mDDVteh2qM2C8wNd5pW7xQH5q_826_Zd0JZAYYzg7rAHQ_KgWu_nxDITw2p-1qCQ8m3U=w2560-h1406",
+        "photoUrl": "https://pbs.twimg.com/profile_images/807699331633598464/A_9pIQ6d.jpg",
         "shortBio": "Angular Developer Expert",
         "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web y Angular Developer Expert , speaker internacional, y escritor de artículos técnicos.",
         "tags": [
             "AngularJS",
             "Angular 2",
-            "Nativescrip",
+            "Nativescript",
+            "Ionic 2",
             "Firebase",
-            "Javascript"
+            "Javascript",
+            "TypeScript"
         ],
         "badges": [
             {
@@ -62,6 +64,16 @@
                 "icon": "github",
                 "name": "Github",
                 "link": "https://plus.google.com/+YonatanLevin"
+            },
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/jorge-cano-06441015"
+            },
+            {
+                "icon": "web",
+                "name": "medium",
+                "link": "https://medium.com/@jorgeucano"
             }
         ]
     },
@@ -77,7 +89,7 @@
         "shortBio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
         "bio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
         "tags": [
-            "?"
+            "Developer"
         ],
         "badges": [
 
@@ -190,7 +202,7 @@
         "company": "",
         "companyLogo": "",
         "country": "Buenos Aires, Argentina.",
-        "photoUrl": "https://lh4.googleusercontent.com/IgRnHyaA5mwR2ruCj7O3UwvCiddOqN5ajiwTVWK2J6v7oX-XpCWYW3xRoS6dTKlu1WrDCioEGhBlYcE=w2560-h1406",
+        "photoUrl": "https://pbs.twimg.com/profile_images/565864173695799296/gnLfbOUK.jpeg",
         "shortBio": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
         "bio": "Soy fanático de las tecnologías web. Trabajo desarrollando soluciones web y mobile hace varios años, con gran foco en la experiencia de usuario.He conducido equipos de desarrollo, tomando decisiones tecnológicas y fomentando la innovación a través de diferentes iniciativas.Me divierte descubrir nuevas tecnologías, elegir la más adecuada para cada proyecto y compartir conocimiento y experiencias con los demás.Además, soy Ingeniero en informática de la UBA y Google Developer Expert para cloud.",
         "tags": [
@@ -360,383 +372,6 @@
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/leonardootero"
-            }
-        ]
-    },
-    "13": {
-        "id": 13,
-        "featured": false,
-        "name": "Hernán de Souza",
-        "title": "Tiene 7 años de experiencia en Front End y hoy está como desarrollador Front End en Belatrix.",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAkaAAAAJDBjNmJhZjc1LWVjYTYtNGYyNC05NGI5LTQzOWRhNDcxOTRlNw.jpg",
-        "shortBio": "Tiene 7 años de experiencia en Front End y hoy está como desarrollador Front End en Belatrix.",
-        "bio": " 7 años desarrollando Front End. Durante estos últimos años ha programado código modular, escalable, robusto y reutilizable para diferentes industrias de software en entornos Java y .Net y Apache. Adaptado a dar soporte móvil y las normas CSS3 como media queries, animaciones, jQuery y @ font-face, centrado en las mejores prácticas y la expansión de front-end como una disciplina en la organización.  Posteriormente paso a  desarrollar sitios MEAN Stack siendo autónomo para desarrollar el flujo de la aplicación tanto de front-end como de back-end y modelado de schemas.Hoy en Belatrix, está como Full Stack, especializado al desarrollo JavaScript y Angular , además de formar parte del equipo de investigación de Belatrix en las tecnologias React JS y Angelica JS. ás Hernán ha participado en workshops en las oficinas de Apple en Silicon Valley. ",
-        "tags": [
-            "AngularJS",
-            "Javascript"
-        ],
-        "badges": [
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/hdesouza"
-            }
-        ]
-    },
-    "17": {
-        "id": 17,
-        "featured": false,
-        "name": "Dmytro Danylyk",
-        "title": "Senior Android Developer",
-        "company": "Timee",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Lviv, Ukraine",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
-        "shortBio": "First Android GDE in Ukraine. Frequent speaker on tech conferences.",
-        "bio": "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
-        "tags": [
-            "Android",
-            "Realm",
-            "Material Design",
-            "Data Sync",
-            "Animations"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/dmytro-danylyk"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Lviv",
-                "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.dmytrodanylyk.com"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://slides.com/dmytrodanylyk"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/dmytrodanylyk"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+DmytroDanylyk"
-            }
-        ]
-    },
-    "19": {
-        "id": 19,
-        "featured": true,
-        "name": "David V\u00e1vra",
-        "title": "Founder/CEO/Android Lead",
-        "company": "Step Up Labs",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/david_v\u00e1vra.jpg",
-        "shortBio": "Founder and CEO of Step Up Labs. Android GDE.",
-        "bio": "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
-        "tags": [
-            "Android",
-            "Android Wear",
-            "Android TV",
-            "Firebase"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/david-v-vra.html"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+DavidV\u00e1vra"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/vavradav"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/dvavra"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/davidvavra"
-            }
-        ]
-    },
-    "18": {
-        "id": 18,
-        "featured": false,
-        "name": "Jakub \u0160kv\u00e1ra",
-        "title": "Frontend engineer",
-        "company": "Shipito",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jakub_\u0161kv\u00e1ra.jpg",
-        "shortBio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools...",
-        "bio": "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG \u010cVUT in the Czech republic.",
-        "tags": [
-            "Web",
-            "AngularJS",
-            "ReactJS",
-            "NodeJS",
-            "Progressive Web Apps",
-            "RAIL"
-        ],
-        "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Prague",
-                "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/@skvaros"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JakubSkvara/"
-            }
-        ]
-    },
-    "21": {
-        "id": 21,
-        "featured": false,
-        "name": "Sergiy Mokienko",
-        "title": "Android Team Lead",
-        "company": "Leverate",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Kyiv,  Ukraine",
-        "photoUrl": "/images/people/sergiy_mokienko.jpg",
-        "shortBio": "Sergiy is an android developer that has experience from building apps from scratch to developing...",
-        "bio": "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
-        "tags": [
-            "Android",
-            "CI/CD"
-        ],
-        "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Kyiv",
-                "link": "https://developers.google.com/groups/chapter/110301321530950732281/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/sergiy-mokienko-76891359"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/Korwin22"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/107094180736796042888"
-            }
-        ]
-    },
-    "20": {
-        "id": 20,
-        "featured": false,
-        "name": "Valentyn Shybanov",
-        "title": "Software Engineer/Country Manager",
-        "company": "Wolters Kluwer",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Kyiv, Ukraine",
-        "photoUrl": "/images/people/valentyn_shybanov.jpg",
-        "shortBio": "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-        "bio": "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-        "tags": [
-            "Web",
-            "AngularJS",
-            "Polymer",
-            "Go"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Cloud Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/valentyn-shybanov.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Kyiv",
-                "link": "https://developers.google.com/groups/chapter/110301321530950732281/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://google.com/+ValentynShybanov"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://olostan.name/"
-            }
-        ]
-    },
-    "23": {
-        "id": 23,
-        "featured": false,
-        "name": "Michael Pustovit",
-        "title": "Senior Android Developer",
-        "company": "Stanfy",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Kyiv, Ukraine",
-        "photoUrl": "/images/people/michael_pustovit.jpg",
-        "shortBio": "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ yea...",
-        "bio": "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
-        "tags": [
-            "Android",
-            "Decompilation",
-            "Security"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/lampapos"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/pustovit"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/pustovit"
-            }
-        ]
-    },
-    "22": {
-        "id": 22,
-        "featured": false,
-        "name": "Ihor Dvoretskyi",
-        "title": "Deployment Engineer",
-        "company": "Mirantis",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Lviv, Ukraine",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-        "shortBio": "OpenStack Foundation member, Kubernetes upstream contributor and OpenStack special interest group lead in Kubernetes Community.",
-        "bio": "Ihor is an Operations Engineer at Mirantis with a huge experience working in IT companies, where he was responsible for projects tightly bound to Cloud computing and Linux systems. He is deeply interested in the OpenStack cloud platform, other Cloud technologies, especially the Open Source projects.<br><br>Also, Ihor acts as the OpenStack Foundation member, Kubernetes upstream contributor, and OpenStack special interest group lead in Kubernetes Community, working intensely on the questions and abilities, related to the OpenStack and Kubernetes collaboration and integration.",
-        "tags": [
-            "Cloud",
-            "OpenStack",
-            "Kubernetes",
-            "Docker"
-        ],
-        "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Lviv",
-                "link": "https://developers.google.com/groups/chapter/102444623953913144164/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/103000293055760527954"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://ua.linkedin.com/in/idvoretskyi"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/idvoretskyi"
-            }
-        ]
-    },
-    "27": {
-        "id": 27,
-        "featured": false,
-        "name": "Pablo Soifer ",
-        "title": "Tiene 10 años de experiencia como QA y hoy está en Belatrix como Test Automation Expert",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "https://media.licdn.com/media/p/2/000/24a/3cc/1b6a6be.jpg",
-        "shortBio": "Tiene 10 años de experiencia como QA y hoy está en Belatrix como Test Automation Expert",
-        "bio": "Test Automation Expert en Belatrix Software y es Analista en Sistemas. A lo largo de su trayectoria laboral, Pablo llevó a cabo tanto el diseño, como la escritura e implementación de nuevos frameworks de automatización en compañías de diferentes rubros. Como QA Automation SME, ha tenido la responsabilidad de realizar el mantenimiento de los frameworks de automatización de pruebas. Además, fruto de su experiencia en tecnología en general, y en calidad en particular, ha tenido la oportunidad de brindar capacitaciones en múltiples ocasiones, teniendo muy buena recepción.",
-        "tags": [
-            "Testing",
-            "SCRUM",
-            "Security"
-        ],
-        "badges": [
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/pablo-soifer-9a087322/"
-            }
-        ]
-    },
-    "26": {
-        "id": 26,
-        "featured": false,
-        "name": "Carlos Cadenas",
-        "title": "Tiene 8 años de experiencia como QA y hoy está en Belatrix como Test Automation SR",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAYDAAAAJGM1N2JmYzdhLWRkMWUtNDRlZC04NDc2LWU2YmI1MGViYWVhNg.jpg",
-        "shortBio": "Tiene 8 años de experiencia como QA y hoy está en Belatrix como Test Automation SR",
-        "bio": "Test Automation SR en Belatrix Software y está estudiando Ingeniería Informática en la Universidad del Salvador. Empieza su carrera hace 8 años como desarrollador y QA.  Durante estos años ha estado aplicando pruebas de automatización con Selenium en varios proyectos en Java, Ruby, C#, siendo Python la tecnología con mayor experiencia y conocimientos. A lo largo de su trayectoria laboral,  desarrolló el diseño,  la escritura e implementación de nuevos frameworks de automatización. En Belatrix está integrando esfuerzo de diferentes áreas para crear un framework de automation que corra en Integración Continua para asegurar la calidad en cada commit.",
-        "tags": [
-            "SCRUM",
-            "Testing",
-            "JavaScript"
-        ],
-        "badges": [
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/cadenascarlos"
             }
         ]
     }
