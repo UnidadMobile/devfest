@@ -40,40 +40,37 @@
         "id": 2,
         "featured": true,
         "name": "Jorge Cano",
-        "title": "Android Evangelist & Developer",
-        "company": "Gett",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Tel Aviv, Israel",
-        "photoUrl": "/images/people/yonatan_levin.jpg",
-        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "title": "Angular Developer Expert",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://lh6.googleusercontent.com/WU6_SRG5Un0mDDVteh2qM2C8wNd5pW7xQH5q_826_Zd0JZAYYzg7rAHQ_KgWu_nxDITw2p-1qCQ8m3U=w2560-h1406",
+        "shortBio": "Angular Developer Expert",
+        "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web y Angular Developer Expert , speaker internacional, y escritor de artículos técnicos.",
         "tags": [
-            "Android",
-            "Doze",
-            "Mobile UX",
-            "Entrepreneurship"
+            "Angular",
+            "Angular 2",
+            "Nativescrip",
+            "Firebase",
+            "Javascript"
         ],
         "badges": [
             {
                 "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+                "description": "Angular Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/jorge-cano"
             }
         ],
         "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/levin.yonatan"
-            },
+
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/parahall"
+                "link": "https://twitter.com/jorgeucano"
             },
             {
-                "icon": "gplus",
-                "name": "Google+",
+                "icon": "github",
+                "name": "Github",
                 "link": "https://plus.google.com/+YonatanLevin"
             }
         ]
@@ -83,35 +80,23 @@
         "featured": true,
         "name": "Alejandro Oviedo",
         "title": "Senior Developer Evangelist Connected Home",
-        "company": "Duetsche Telekom AG - Group Innovation+",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Munich and Dusseldorf, Germany",
-        "photoUrl": "/images/people/sascha_wolter.jpg",
-        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/490234428648468480/nNVw_w5e_400x400.jpeg",
+        "shortBio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
+        "bio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
         "tags": [
-            "Web",
-            "IoT",
-            "Smart Home"
+            "?"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://www.wolter.biz"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "http://twitter.com/saschawolter"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "http://www.linkedin.com/pub/sascha-wolter/5/a38/493"
+                "link": "http://twitter.com/a0viedo"
             }
         ]
     },
@@ -145,26 +130,29 @@
     "5": {
         "id": 5,
         "featured": true,
-        "name": "Nicolas Bello",
-        "title": "Product Manager/Developer",
-        "company": "Sygic",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Opole, Poland",
-        "photoUrl": "/images/people/adrian_kajda.jpg",
-        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "name": "Nicolás Bello Camilletti",
+        "title": "Full-Stack Developer (C# y node.js) en Southworks, Microsoft MV",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://pbs.twimg.com/profile_images/476473056521494528/FT8wwFWX.jpeg",
+        "shortBio": "Full-Stack Developer (C# y node.js) en Southworks, Microsoft MVP",
+        "bio": "Nicolás es Ingeniero en Informática y Licenciado en Sistemas. Trabaja como Full-Stack Developer en Southworks. Aparte de esto, es Microsoft MVP. Normalmente trabaja con las últimas tecnologías especialmente relacionadas con Cloud Computing y Web Development usando C# y Node.js. Además organiza los meetups de Cloud Computing, Net-Baires y ASP.NET Community Standup LATAM.",
         "tags": [
-            "Android",
-            "Entrepreneurship"
+            "JavaScript",
+            "C#",
+            "Node.js",
+            "Angular 2",
+            "Cloud"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "plus.google.com/+AdrianKajda"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/nbellocam"
             }
         ]
     },
@@ -296,19 +284,24 @@
         "id": 9,
         "featured": false,
         "name": "Leonardo Pittelli",
-        "title": "Android Engineer",
-        "company": "SoftServe",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Kyiv, Ukraine",
-        "photoUrl": "/images/people/david_mayboroda.jpg",
-        "shortBio": "Ex Yandex emproyee. Android enthusiast.",
-        "bio": "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
+        "title": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina.",
+        "photoUrl": "https://lh4.googleusercontent.com/IgRnHyaA5mwR2ruCj7O3UwvCiddOqN5ajiwTVWK2J6v7oX-XpCWYW3xRoS6dTKlu1WrDCioEGhBlYcE=w2560-h1406",
+        "shortBio": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
+        "bio": "Soy fanático de las tecnologías web. Trabajo desarrollando soluciones web y mobile hace varios años, con gran foco en la experiencia de usuario.He conducido equipos de desarrollo, tomando decisiones tecnológicas y fomentando la innovación a través de diferentes iniciativas.Me divierte descubrir nuevas tecnologías, elegir la más adecuada para cada proyecto y compartir conocimiento y experiencias con los demás.Además, soy Ingeniero en informática de la UBA y Google Developer Expert para cloud.",
         "tags": [
-            "Android",
-            "Dagger 2"
+            "Progressive Web Apps",
+            "Cloud",
+            "Web"
         ],
         "badges": [
-
+            {
+                "name": "GDE",
+                "description": "Cloud Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/leonardo-pittelli"
+            }
         ],
         "socials": [
             {
@@ -490,33 +483,30 @@
     "14": {
         "id": 14,
         "featured": false,
-        "name": "Hernan Rajchert",
-        "title": "Front-end Engineer",
-        "company": "Widespread",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Cluj-Napoca, Romania",
-        "photoUrl": "/images/people/carmen_popovicu.jpg",
-        "shortBio": "Angular JS committer. Founder of Dutch Angular JS Community, co-organizer of NG-NL.",
-        "bio": "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
+        "name": "Hernán Rajchert",
+        "title": "Ing. Informático, CTO en Acamica",
+        "company": "Acamica",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://pbs.twimg.com/profile_images/689837853979840512/aNDnt-ps_400x400.jpg",
+        "shortBio": "Ing. Informático, CTO en Acamica",
+        "bio": "Su hobby es coleccionar hobbies, bajista, jardinero orgánico, cultivador de hongos y comediante de standup fracasado. Developer de pequeño, Hernán estudió electrónica en la secundaria e informática en la facultad. Trabajó en diferentes start ups, ahora trabaja como CTO en Acamica, una academia online interactiva para aprender a programar.",
         "tags": [
-            "Web",
-            "AngularJS2",
-            "Polymer",
-            "Protractor"
+            "Js",
+            "RxJs",
+            "Angular",
+            "Redux",
+            "Node",
+            "FP"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/u/0/118143942632321563925/"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/CarmenPopoviciu"
+                "link": "https://twitter.com/sherman3ero"
             }
         ]
     },
@@ -971,98 +961,52 @@
     "27": {
         "id": 27,
         "featured": false,
-        "name": "Roman Herasymenko",
-        "title": "CEO",
-        "company": "Yamert",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Dnipro, Ukraine",
-        "photoUrl": "/images/people/roman_herasymenko.jpg",
-        "shortBio": "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
-        "bio": "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
+        "name": "Pablo Soifer ",
+        "title": "Tiene 10 años de experiencia como QA y hoy está en Belatrix como Test Automation Expert",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/media/p/2/000/24a/3cc/1b6a6be.jpg",
+        "shortBio": "Tiene 10 años de experiencia como QA y hoy está en Belatrix como Test Automation Expert",
+        "bio": "Test Automation Expert en Belatrix Software y es Analista en Sistemas. A lo largo de su trayectoria laboral, Pablo llevó a cabo tanto el diseño, como la escritura e implementación de nuevos frameworks de automatización en compañías de diferentes rubros. Como QA Automation SME, ha tenido la responsabilidad de realizar el mantenimiento de los frameworks de automatización de pruebas. Además, fruto de su experiencia en tecnología en general, y en calidad en particular, ha tenido la oportunidad de brindar capacitaciones en múltiples ocasiones, teniendo muy buena recepción.",
         "tags": [
-            "Android",
-            "Firebase",
+            "Testing",
+            "SCRUM",
             "Security"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/roman-herasymenko.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Dnipro",
-                "link": "https://developers.google.com/groups/chapter/116033068768596939209/"
-            }
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+RomanGerasimenko/"
-            },
-            {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "http://ua.linkedin.com/pub/roman-gerasimenko/"
+                "link": "https://www.linkedin.com/in/pablo-soifer-9a087322/"
             }
         ]
     },
     "26": {
         "id": 26,
         "featured": false,
-        "name": "Resul Caner  Yildirim",
-        "title": "User Experience Expert",
-        "company": "InnovationBox",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Istanbul, Turkey",
-        "photoUrl": "/images/people/resul caner_yildirim.jpg",
-        "shortBio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
-        "bio": "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
+        "name": "Carlos Cadenas",
+        "title": "Tiene 8 años de experiencia como QA y hoy está en Belatrix como Test Automation SR",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAYDAAAAJGM1N2JmYzdhLWRkMWUtNDRlZC04NDc2LWU2YmI1MGViYWVhNg.jpg",
+        "shortBio": "Tiene 8 años de experiencia como QA y hoy está en Belatrix como Test Automation SR",
+        "bio": "Test Automation SR en Belatrix Software y está estudiando Ingeniería Informática en la Universidad del Salvador. Empieza su carrera hace 8 años como desarrollador y QA.  Durante estos años ha estado aplicando pruebas de automatización con Selenium en varios proyectos en Java, Ruby, C#, siendo Python la tecnología con mayor experiencia y conocimientos. A lo largo de su trayectoria laboral,  desarrolló el diseño,  la escritura e implementación de nuevos frameworks de automatización. En Belatrix está integrando esfuerzo de diferentes áreas para crear un framework de automation que corra en Integración Continua para asegurar la calidad en cada commit.",
         "tags": [
-            "Android",
-            "UX/UI",
-            "Android Wear",
-            "IoT"
+            "SCRUM",
+            "Testing",
+            "JavaScript"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "UI/UX Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Istanbul",
-                "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-            }
         ],
         "socials": [
             {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/protechman"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+rcaneryildirim"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://facebook.com/r.caner.yildirim"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://dribbble.com/protechman"
-            },
-            {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://linkedin.com/in/protechman"
+                "link": "https://www.linkedin.com/in/cadenascarlos"
             }
         ]
     }
