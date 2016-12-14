@@ -130,37 +130,42 @@
         },
 
         _getSession: function (sessionId, day, dayIndex, schedule) {
-          var session = this.sessions[sessionId];
-          session.mainTag = session.tags ? session.tags[0] : 'General';
-          session.day = dayIndex + 1;
+          try {
+            var session = this.sessions[sessionId];
+            session.mainTag = session.tags ? session.tags[0] : 'General';
+            session.day = dayIndex + 1;
 
-          if (day.tags.indexOf(session.mainTag) < 0) {
-            day.tags.push(session.mainTag);
-          }
-          if (schedule.tags.indexOf(session.mainTag) < 0) {
-            schedule.tags.push(session.mainTag);
-          }
-          var speakers = [];
-          if (session.speakers) {
-            for (var j = 0, speakersLen = session.speakers.length ; j < speakersLen; j++) {
-              try{
-                if (!session.speakers[j].id) {
-                  session.speakers[j] = this._speakersRaw[session.speakers[j]];
-                  var tempSession = JSON.parse(JSON.stringify(session));
-                  delete tempSession.speakers;
-                  if (session.speakers[j]) {
-                    if (!session.speakers[j].sessions) {
-                      session.speakers[j].sessions = [];
+            if (day.tags.indexOf(session.mainTag) < 0) {
+              day.tags.push(session.mainTag);
+            }
+            if (schedule.tags.indexOf(session.mainTag) < 0) {
+              schedule.tags.push(session.mainTag);
+            }
+            var speakers = [];
+            if (session.speakers) {
+              for (var j = 0, speakersLen = session.speakers.length ; j < speakersLen; j++) {
+                try{
+                  if (!session.speakers[j].id) {
+                    session.speakers[j] = this._speakersRaw[session.speakers[j]];
+                    var tempSession = JSON.parse(JSON.stringify(session));
+                    delete tempSession.speakers;
+                    if (session.speakers[j]) {
+                      if (!session.speakers[j].sessions) {
+                        session.speakers[j].sessions = [];
+                      }
+                      session.speakers[j].sessions.push(tempSession);
+                      speakers.push(session.speakers[j].name);
                     }
-                    session.speakers[j].sessions.push(tempSession);
-                    speakers.push(session.speakers[j].name);
                   }
                 }
-              }
-              catch(error){
-                console.log(error);
+                catch(error){
+                  console.log(error);
+                }
               }
             }
+          }
+          catch(error){
+            console.log(error);
           }
           return session;
         },

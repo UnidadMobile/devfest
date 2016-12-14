@@ -1,0 +1,33 @@
+{
+  "11": {
+    "id": 11,
+    "title": "Design Sprints en práctica",
+    "description": "Design Sprints es un proceso de 2 a 5 días de duración para responder preguntas críticas de negocios a través del diseño, creación de prototipos y pruebas de ideas incorporando distintos participantes de una empresa como desarrolladores, expertos de productos, diseñadores, marketing etc. Creado por Google Ventures, es un método para desarollar estrategias de negocios, innovación, análisis del comportamiento de usuarios, diseño, entre otros -. En resumen, es un proceso de prueba de batalla que cualquier equipo de trabajo puede usar. Trabajar juntos en un Sprint hace posible atajar los interminables debates y comprimir meses de desarrollo en una sola semana. En lugar de esperar a lanzar un 'producto mínimo' para concluir si una idea es buena, se obtienen datos claros a partir de un prototipo realista. El Sprint brinda un superpoder: un equipo de trabajo puede avanzar rápidamente para ver su producto final y las reacciones de los clientes, antes de hacer cualquier desarrollo de código.",
+    "language": "Español"
+  },
+  "12": {
+    "id": 12,
+    "title": "TBD",
+    "description": "",
+    "language": "Español"
+  },
+  "13": {
+    "id": 13,
+    "title": "Modern Dev Tools for Modern JavaScripters",
+    "description": "Un repaso sobre todas las tecnologías y herramientas que necesitan los desarrolladores javascript a la hora de programar aplicaciones web/mobile. Optimizar performance, automatizar procesos, estandarización y calidad de código, son muchas de los beneficios que podemos obtener a través de un determinado set de herramientas de fácil implementación.",
+    "language": "Español"
+  }
+  ,
+  "14": {
+    "id": 14,
+    "title": "Testing automation aplicado a UX",
+    "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio.En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.",
+    "language": "Español"
+  },
+  "15": {
+    "id": 15,
+    "title": "Creando una SPA con Angular 2 y ASP.NET Core",
+    "description": "En la charla vamos a ver como configurar Angular 2 en un projecto de ASP.NET Core para crear una single page application. Como parte de la misma, aparte de mostrar como hookear Angular 2, vamos a ver como manejar rooting y llamadas a una Web API.",
+    "language": "Español"
+  }
+}
