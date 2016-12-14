@@ -2,18 +2,18 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Daniel Monastersky",
-        "title": "Developer Advocate",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/mete_atamel.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "name": "Michael Dorka",
+        "title": "Líder del equipo de usabilidad e investigación de usuarios de despegar.com",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/09a/23f/2732e27.jpg",
+        "shortBio": "Actualmente Michael es el líder del equipo de usabilidad e investigación de usuarios de despegar, uno de los Google developer experts de UX/UI, sprintmaster de Google design sprints y mentor del programa launchpad. El tiene más de 6 años de experiencia como socio y fundador de varios start-ups internacionales y más de 18 años de experiencia como diseñador y consultor profesional de UX.",
+        "bio": "Actualmente Michael es el líder del equipo de usabilidad e investigación de usuarios de despegar, uno de los Google developer experts de UX/UI, sprintmaster de Google design sprints y mentor del programa launchpad. El tiene más de 6 años de experiencia como socio y fundador de varios start-ups internacionales y más de 18 años de experiencia como diseñador y consultor profesional. Después de graduarse en Köln International School of Design y de trabajar más de 5 años como Director Creativo en diferentes agencias de publicidad en Alemania, se dedicó a Arquitectura Informática, Diseño de Interfaces y Diseño de Experiencia de Usuario. Trabajó como consultor para Vodafone Global, como diseñador de experiencia de usuario para la Telekom Alemana Laboratorios de la Telekom Alemana, T-Home y T-mobile. En 2010 Michael ganó el concurso internacional IF Design award para el desarrollo del teléfono inalámbrico Sinus A201 de la Telekom alemana. En 2008 Michael Dorka ganó la Beca EXIST del Ministerio Federal de Economía y Tecnología en Alemania. Investigó sobre servicios de tecnología móvil en Japón y trabajó como consultor de nuevas tecnologías para el Ministerio de Tecnología y Economía alemán.Michael publicó artículos en el sitio web del Design Research Network, en el libro Public Design, en la revista de diseño Tipografica y en el diario Buenos Aires Daily Herald. Dio clases en la carrera de Diseño de Interfaces en Köln International School of Design (KISD), en la Universidad de Buenos Aires (UBA), en la Universidad de La Plata (UNLP) y en Musashino Art University, Tokyo (MAU).",
         "tags": [
-            "Cloud",
-            "Compute Engine",
-            "gRPC"
+            "UX",
+            "UI",
+            "Material Design"
         ],
         "badges": [
 
@@ -22,17 +22,7 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://ar.linkedin.com/in/michaeldorka"
             }
         ]
     },
@@ -48,7 +38,7 @@
         "shortBio": "Angular Developer Expert",
         "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web y Angular Developer Expert , speaker internacional, y escritor de artículos técnicos.",
         "tags": [
-            "Angular",
+            "AngularJS",
             "Angular 2",
             "Nativescrip",
             "Firebase",
@@ -103,27 +93,28 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "German Kuber",
-        "title": "Software Engineer",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Mountain View, United States",
-        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
-        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "name": "Germán Küber",
+        "title": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://avatars3.githubusercontent.com/u/12403766?v=3&s=460",
+        "shortBio": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End..",
+        "bio": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End. Trabaja como Desarrollador en Majestic. Es MSP (Microsoft Student Partner) y también organizador de la comunidad de Net-Baires. Apasionado por: C#, Angular, TypeScript, JavaScript y la arquitectura de software.",
         "tags": [
-            "Cloud",
-            "Performance",
-            "TensorFlow"
+            "C#",
+            "AngularJS",
+            "TypeScript",
+            "Javascript"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
+                "icon": "twitter",
+                "name": "Twitter+",
+                "link": "https://www.twitter.com/germankuber"
             }
         ]
     },
@@ -160,128 +151,39 @@
         "id": 6,
         "featured": true,
         "name": "Ignacio Anaya",
-        "title": "Technical Evangelist",
-        "company": "AngularZone",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "London, United Kingdom",
-        "photoUrl": "/images/people/gerard_sans.jpg",
-        "shortBio": "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
-        "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
+        "title": "Full stack software engineer, mentor de programación y jugador de hockey.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://en.gravatar.com/userimage/49947178/380bb9101105924899f908052be50620.jpg?size=400",
+        "shortBio": "Full stack software engineer, mentor de programación y jugador de hockey.",
+        "bio": "Trabajo hace 8 años como Full Stack Developer desarrollando soluciones web & mobiles para diferentes industrias. Me encanta todo lo relacionado con JavaSctipt, Node.js y el software Open Source. Me dedico tambien a la docencia, haciendo coaching tecnico para empresas y mentoring de alumnos y futuros programadores.",
         "tags": [
-            "Web",
-            "Angular",
-            "Progressive Web Apps"
+            "JavaScript",
+            "Node.js"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Angular Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/gerard-sans.html"
-            }
         ],
         "socials": [
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/gerardsans"
+                "link": "https://twitter.com/ianaya89"
             },
             {
-                "icon": "website",
-                "name": "Website",
-                "link": "https://medium.com/@gerard.sans"
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/ianaya89s"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://ar.linkedin.com/in/ianaya89"
             }
         ]
     },
     "7": {
         "id": 7,
-        "featured": true,
-        "name": "Eze Sculli",
-        "title": "Developer Relations Program Manager",
-        "company": "Google",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jozef_vodicka.jpg",
-        "shortBio": "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-        "bio": "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
-        "tags": [
-            "Cloud",
-            "Firebase"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jozefvodicka"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/jozefvodicka"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JozefVodicka"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jozef.vodicka"
-            }
-        ]
-    },
-    "8": {
-        "id": 8,
-        "featured": true,
-        "name": "Hernan Liendo",
-        "title": "Android Tech Lead",
-        "company": "IG",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Krakow, Poland",
-        "photoUrl": "/images/people/mateusz_herych.jpg",
-        "shortBio": "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
-        "bio": "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
-        "tags": [
-            "Android",
-            "Android",
-            "Design Patterns",
-            "Libraries"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/img/user/108555637824110226040.png"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": "https://developers.google.com/groups/directory/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+MateuszHerych"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/mherych"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/herych"
-            }
-        ]
-    },
-    "9": {
-        "id": 9,
         "featured": false,
         "name": "Leonardo Pittelli",
         "title": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
@@ -305,183 +207,45 @@
         ],
         "socials": [
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/profile.php?id=100008474898785"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/dmayboroda"
-            }
-        ]
-    },
-    "10": {
-        "id": 10,
-        "featured": true,
-        "name": "Mati Molina",
-        "title": "Front-End Engineer",
-        "company": "Brainly",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Krakow, Poland",
-        "photoUrl": "/images/people/konrad_dzwinel.jpg",
-        "shortBio": "Fighting for 60FPS on Web. GDE on Web Technologies. Co-organizer of GDG Krakow.",
-        "bio": "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
-        "tags": [
-            "Web",
-            "Chrome Extensions",
-            "Progressive Web Apps"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Web Technologies Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/konrad-dzwinel.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Krakow",
-                "link": " https://developers.google.com/groups/directory/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/kdzwinel"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/kdzwinel"
+                "link": "https://twitter.com/leopittelli"
             }
         ]
     },
-    "11": {
-        "id": 11,
-        "featured": false,
-        "name": "Mike Dorka",
-        "title": "Founder",
-        "company": "Apeser",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Basel, Switzerland",
-        "photoUrl": "/images/people/jean-baptiste_clion.jpg",
-        "shortBio": "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
-        "bio": "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
-        "tags": [
-            "Cloud",
-            "AppEngine",
-            "Microservices"
-        ],
-        "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Basel",
-                "link": "https://developers.google.com/groups/chapter/104796338340371914914/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jbclion"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/JBaptisteClion"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JeanBaptisteClionBasel/posts"
-            }
-        ]
-    },
-    "12": {
-        "id": 12,
+    "8": {
+        "id": 8,
         "featured": true,
         "name": "Yury Camacho",
-        "title": "CTO",
-        "company": "Pixplicity",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Amsterdam, The Netherlands",
-        "photoUrl": "/images/people/paul_lammertsma.jpg",
-        "shortBio": "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-b...",
-        "bio": "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestl\u00e9, De Telegraaf, AGIS and De Consumentenbond.",
+        "title": "Ingeniero de Sistemas, Android Dev, manager del GDG Cochabamba , Mobile Technical Lead en Globant.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Cochabamba, Bolivia",
+        "photoUrl": "https://scontent.xx.fbcdn.net/v/t31.0-8/14691261_10209419344833314_3345453187675846396_o.jpg?oh=a7ef1397009b5674d042fb19953295ab&oe=58B17AAD",
+        "shortBio": "Ingeniero de Sistemas, Android Dev, manager del GDG Cochabamba , Mobile Technical Lead en Globant.",
+        "bio": "Ingeniero de sistemas con mas de 6 años de experiencia en el del desarrollo, móvil, es manager del GDG Cochabamba,  y actualmente trabaja en Globant como líder técnico de desarrollo móvil para Android y IOS.",
         "tags": [
             "Android",
-            "Data Sync",
-            "Linux"
+            "Mobile",
+            "SCRUM"
         ],
         "badges": [
             {
-                "name": "DAUG",
-                "description": "DAUG",
-                "link": "https://developers.google.com/groups/chapter/113182948271879290904/"
+                "name": "GDG",
+                "description": "Google Developer Groups Cochabamba",
+                "link": "https://developers.google.com/groups/chapter/107589533385257090652/"
             }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/u/0/+PaulLammertsma"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/officesunshine"
-            }
-        ]
-    },
-    "13": {
-        "id": 13,
-        "featured": false,
-        "name": "Fran Kalaidyjan",
-        "title": "Code Monkey",
-        "company": "Applause",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Warsaw, Poland",
-        "photoUrl": "/images/people/aleksander_piotrowski.jpg",
-        "shortBio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
-        "bio": "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-        "tags": [
-            "Android",
-            "Android N"
-        ],
-        "badges": [
-
         ],
         "socials": [
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/pelotasplus"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "http://facebook.com/pelotasplus"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/pelotasplus"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://www.instagram.com/pelotasplus/"
+                "link": "https://twitter.com/camachoyury "
             }
         ]
     },
-    "14": {
-        "id": 14,
+    "9": {
+        "id": 9,
         "featured": false,
         "name": "Hernán Rajchert",
         "title": "Ing. Informático, CTO en Acamica",
@@ -494,7 +258,7 @@
         "tags": [
             "Js",
             "RxJs",
-            "Angular",
+            "AngularJS",
             "Redux",
             "Node",
             "FP"
@@ -510,21 +274,23 @@
             }
         ]
     },
-    "15": {
-        "id": 15,
+    "10": {
+        "id": 10,
         "featured": true,
         "name": "Mariano Vazquez",
-        "title": "Data Scientist",
-        "company": "Stylight",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Munich, Germany",
-        "photoUrl": "/images/people/sergii_khomenko.jpg",
-        "shortBio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisati...",
-        "bio": "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
+        "title": "Full-stack developer @ MuleSoft",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "http://netconf.uy/Content/images/demo/speakers/MarianoVazquez.jpg",
+        "shortBio": "Full-stack developer @ MuleSoft",
+        "bio": "Full-stack developer en MuleSoft. Organizador del meetup Buenos-Aires-Cloud-Computing. Ha trabajado como vendor para Microsoft en equipos como P&P (Patterns & Practices) y DPE (Developer and Platform Evangelist).",
         "tags": [
-            "Cloud",
-            "Big Data",
-            "Analytics"
+            "Node.js",
+            "AngularJS",
+            "React",
+            "Web",
+            ".NET"
         ],
         "badges": [
 
@@ -533,64 +299,97 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/lc0d3r"
+                "link": "https://twitter.com/marianodvazquez"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "github.com/nanovazquez"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "Eduardo Casarero",
+        "title": "Sr. Sysadmin en Percona, COO de sysarmy. ",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://scontent-eze1-1.xx.fbcdn.net/t31.0-8/13528424_1041023715934117_8180907067702140383_o.jpg",
+        "shortBio": "Sr. Sysadmin en Percona, COO de sysarmy.",
+        "bio": "Sr. Sysadmin, integra el equipo de Infraestructura de Percona desde hace 2 años. Trabajó siempre en áreas de soporte e infraestructura de diversos tipos de compañías, siempre orientado a tecnologías open source. También es el COO de sysarmy, 'El soporte de los que dan soporte'. ",
+        "tags": [
+            "DevOps",
+            "sysadmin",
+            "Open Source"
+        ],
+        "badges": [
+        ],
+        "socials": [
+
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/jedux"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Leonardo Otero",
+        "title": "Tiene 20 de experiencia en la industria de desarrollo de software y hoy está como desarrollador Node.js Full stack en Belatrix.",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAi4AAAAJDM3OTA0YTBkLTI1NjUtNDQ2ZC1hNjVmLTBlM2ZkZTA5NDU1MQ.jpg",
+        "shortBio": "Tiene 20 de experiencia en la industria de desarrollo de software y hoy está como desarrollador Node.js Full stack en Belatrix.",
+        "bio": "20 años de experiencia en la industria de desarrollo de software. A lo largo de su carrera ha pasado por posiciones de desarrollo, liderazgo técnico, consultoría y arquitectura de software. Cuenta con amplios conocimientos en Javascript, Node.js, Java y Python, entre otros lenguajes de programación. Inicialmente se desempeñó en Belatrix como desarrollador Node.js Full stack para una innovadora plataforma de pagos electrónicos a nivel global con sede en San Francisco. Posteriormente y gracias amplia trayectoria en la industria del desarrollo de software se desempeñó como consultor e implementador de la suite de productos middleware de una empresa partner de Belatrix. En el ámbito académico posee experiencia dictando cursos de Node.js Fundamentals e inauguró  las “Brown bag training sessions”, espacio en el que se realizan charlas periódicamente y se propone el intercambio de conocimientos de React.js en Belatrix Buenos Aires.",
+        "tags": [
+            "Node.js",
+            "SCRUM",
+            "AngularJS",
+            "Javascript"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/leonardootero"
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Hernán de Souza",
+        "title": "Tiene 7 años de experiencia en Front End y hoy está como desarrollador Front End en Belatrix.",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAkaAAAAJDBjNmJhZjc1LWVjYTYtNGYyNC05NGI5LTQzOWRhNDcxOTRlNw.jpg",
+        "shortBio": "Tiene 7 años de experiencia en Front End y hoy está como desarrollador Front End en Belatrix.",
+        "bio": " 7 años desarrollando Front End. Durante estos últimos años ha programado código modular, escalable, robusto y reutilizable para diferentes industrias de software en entornos Java y .Net y Apache. Adaptado a dar soporte móvil y las normas CSS3 como media queries, animaciones, jQuery y @ font-face, centrado en las mejores prácticas y la expansión de front-end como una disciplina en la organización.  Posteriormente paso a  desarrollar sitios MEAN Stack siendo autónomo para desarrollar el flujo de la aplicación tanto de front-end como de back-end y modelado de schemas.Hoy en Belatrix, está como Full Stack, especializado al desarrollo JavaScript y Angular , además de formar parte del equipo de investigación de Belatrix en las tecnologias React JS y Angelica JS. ás Hernán ha participado en workshops en las oficinas de Apple en Silicon Valley. ",
+        "tags": [
+            "AngularJS",
+            "Javascript"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/hdesouza"
             }
         ]
     },
     "17": {
         "id": 17,
-        "featured": false,
-        "name": "Eduardo Casarero",
-        "title": "Co-Founder",
-        "company": "Juicymo",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Prague, Czech Republic",
-        "photoUrl": "/images/people/jana_moudra.jpg",
-        "shortBio": "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
-        "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons \u2013 covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
-        "tags": [
-            "Android",
-            "Testing",
-            "UiAutomator",
-            "Dart"
-        ],
-        "badges": [
-            {
-                "name": "GDE",
-                "description": "Dart Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/jana-moudr.html"
-            },
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Prague",
-                "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JanaMoudr\u00e1/posts"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/Janamou"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://cz.linkedin.com/in/janamoudra"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/Janamou"
-            }
-        ]
-    },
-    "16": {
-        "id": 16,
         "featured": false,
         "name": "Dmytro Danylyk",
         "title": "Senior Android Developer",
@@ -886,75 +685,6 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/idvoretskyi"
-            }
-        ]
-    },
-    "25": {
-        "id": 25,
-        "featured": false,
-        "name": "Constantine Mars",
-        "title": "Senior Android Developer",
-        "company": "DataArt",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Dnipro, Ukraine",
-        "photoUrl": "/images/people/constantine_mars.jpg",
-        "shortBio": "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
-        "bio": "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on DevFest, multiple IT NonStop events and GDG meetups. Constantine is interested mainly in Android Wear platform, RxJava, best practices in applications Architecture, and sometimes cross-platform mobile development with Xamarin.",
-        "tags": [
-            "Android",
-            "RxJava",
-            "Android Wear",
-            "Xamarin"
-        ],
-        "badges": [
-            {
-                "name": "GDG",
-                "description": "Google Developers Group Dnipro",
-                "link": "https://developers.google.com/groups/chapter/116033068768596939209/"
-            }
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+ConstantineMars"
-            }
-        ]
-    },
-    "24": {
-        "id": 24,
-        "featured": false,
-        "name": "Anton  Minashkin",
-        "title": "Lead Software Developer",
-        "company": "EPAM",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Lviv, Ukraine",
-        "photoUrl": "/images/people/anton_minashkin.jpg",
-        "shortBio": "Android developer, currently works at EPAM. Have experience in both server and mobile side develo...",
-        "bio": "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
-        "tags": [
-            "Android",
-            "Architecture",
-            "ExoPlayer"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/anton.minashkin.1"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/AntonMinashkin"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://ua.linkedin.com/in/anton-minashkin-606a1b4b"
             }
         ]
     },
