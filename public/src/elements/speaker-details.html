@@ -66,33 +66,6 @@
         </div>
 
       </div>
-
-      <template is="dom-if" if="{{speaker.sessions.length}}">
-        <div class="sections-wrapper content">
-          <h4 class="block-title">[[localize('sessions')]]</h4>
-          <div class="sections">
-            <template is="dom-repeat" items="[[speaker.sessions]]" as="session">
-              <div class="section">
-                <div class="section-info">
-                  <h3 class="section-title">[[session.title]]</h3>
-                  <div class="badges">
-                    <template is="dom-repeat" items="[[session.tags]]" as="tag">
-                      <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
-                    </template>
-                  </div>
-                  <truncate-marked-text
-                    text="[[session.description]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
-                  <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>[[localize('read-more')]]</a>
-
-                </div>
-              </div>
-            </template>
-          </div>
-        </div>
-      </template>
     </paper-scroll-header-panel>
 
   </template>
