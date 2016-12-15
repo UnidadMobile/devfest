@@ -374,5 +374,486 @@
                 "link": "https://www.linkedin.com/in/leonardootero"
             }
         ]
+    },
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Carlos Cadenas y Pablo Soifer",
+        "title": "Testing automation aplicado a UX",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAYDAAAAJGM1N2JmYzdhLWRkMWUtNDRlZC04NDc2LWU2YmI1MGViYWVhNg.jpg",
+        "shortBio": "Carlos Cadenas: Tiene 8 años de experiencia como QA y hoy está en Belatrix como Test Automation SR. Pablo Soifer: Tiene 10 años de experiencia como QA y hoy está en Belatrix como Test Automation Expert",
+        "bio": "Carlos Cadenas actualmente se encuentra como Test Automation SR en Belatrix Software y está estudiando Ingeniería Informática en la Universidad del Salvador. Empieza su carrera hace 8 años como desarrollador y QA. Durante estos años ha estado aplicando 
+                pruebas de automatización con Selenium en varios proyectos en Java, Ruby, C#, siendo Python la tecnología con mayor experiencia y conocimientos. 
+                A lo largo de su trayectoria laboral, desarrolló el diseño, la escritura e implementación de nuevos frameworks de automatización. En Belatrix está integrando esfuerzo de diferentes áreas para crear un framework de automation que corra en Integración Continua para asegurar la calidad en cada commit.
+                Pablo Soifer se desempeña como Test Automation Expert en Belatrix Software y es Analista en Sistemas. A lo largo de su trayectoria laboral, Pablo llevó a cabo tanto el diseño, como la escritura e implementación de nuevos frameworks de automatización en compañías de diferentes rubros. 
+                Como QA Automation SME, ha tenido la responsabilidad de realizar el mantenimiento de los frameworks de automatización de pruebas. Además, fruto de su experiencia en tecnología en general, y en calidad en particular, ha tenido la oportunidad de brindar capacitaciones en múltiples ocasiones, teniendo muy buena recepción.",
+        "tags": [
+            "desing",
+            "product",
+            "invetigation",
+            "innovation"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/pablo-soifer-9a087322?authType=NAME_SEARCH&authToken=pp8F&locale=es_ES&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A79777992%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1481640366104%2Ctas%3APablo%20Soi"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/cadenascarlos?authType=NAME_SEARCH&authToken=HfIA&locale=es_ES&srchid=1068491431481640679727&srchindex=1&srchtotal=115&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A1068491431481640679727%2CVSRPtargetId%3A65424504%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH"
+            }
+        ]
+    },
+
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Martin & Fran",
+        "title": "Un monolito suelto en AWS",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "",
+        "shortBio": "Fullstack firefighter en Artear",
+        "bio": "Somos parte de un equipo de desarrolladores del producto TN.com.ar. Trabajamos con varias tecnologias, apis, monolitos, apps nativas, nodejs, C++, React.",
+        "tags": [
+            "APIs",
+            "Monolitos",
+            "nodejs",
+            "C++",
+            "React"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    },
+
+    "15": {
+        "id": 15,
+        "featured": false,
+        "name": "Jorge Aguado",
+        "title": "Mercado de Innovación Argentina",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://drive.google.com/file/d/0B1L3zv7SJhYmQ002QldScWZOY3lHNndrTGtYUGhVc0hFaDF3/view?usp=sharing",
+        "shortBio": "Subsecretario de Políticas en Ciencia, Tecnología e Innovación Productiva en el Ministerio de Ciencia, Tecnología e Innovación Productiva de la Nación.",
+        "bio": "Es Ingeniero Industrial por el Instituto Tecnológico de Buenos Aires (ITBA). En su paso por el ámbito privado fue Gerente de Marketing de Software para Sudamérica de IBM y Gerente de Marketing de Dell Latinoamérica. 
+                Comenzó su carrera en al ámbito público en 2011 como Titular de la Unidad de Proyectos Especiales «Plan Integral de Educación Digital», que tuvo a cargo la implementación del Plan S@rmiento BA. 
+                Entre 2012 y 2015, lideró la Dirección General de Tecnología Educativa del Ministerio de Educación, y tuvo entre sus funciones incorporar la tecnología en diversos estamentos de la Educación de la Ciudad.
+                A fin de 2015 asumió como Subsecretario de Políticas en Ciencia, Tecnología e Innovación Productiva en el Ministerio de Ciencia, Tecnología e Innovación Productiva de la Nación, en donde es responsable de elevar anteproyectos de planes y programas; generar estrategias para incrementar la capacidad tecnológica y competitiva del Sistema Nacional de Ciencia, Tecnología e Innovación; y estudiar mecanismos para la creación y el impulso de empresas de base tecnológica.",
+        "tags": [
+            "emprendedorismo",
+            "crowdfunding"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "twitter",
+                "link": "https://twitter.com/jorgemaguado"
+            },
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/jorgemaguado"
+            }
+        ]
+    },
+
+    "16": {
+        "id": 16,
+        "featured": false,
+        "name": "Ezequiel Sculli, Pablo Ois Lagarde y Luciano Ganga",
+        "title": "Startups: Expectativa vs Realidad - Lo que nunca nadie se animó a contarte",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "",
+        "shortBio": "Ezequiel, Pablo y Luciano trabajan juntos hace 3 años construyendo startups. Antes en Rodati.com, y ahora en Sirena (getsirena.com), intentan resolver problemas reales con productos de tecnología.",
+        "bio": "Ezequiel Sculli es Co-Fundador y Director de Producto en Sirena (getsirena.com), además, fue elegido como Google Expert en Producto 2016/2017. Pablo Ois Lagarde es Full Stack Developer en Sirena (getsirena.com), además se auto-describe como un "maker & traveler". Luciano Ganga es Full Stack Developer en Sirena (getsirena.com), y se encarga del área de integraciones de plataformas externas con Sirena.",
+        "tags": [
+            "Startups",
+            "Emprendedores"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ezesculli"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/poislagarde"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/Lucho_1312"
+            }            
+        ]
+    },
+
+
+    "17": {
+        "id": 17,
+        "featured": false,
+        "name": "Agostina Fasanella",
+        "title": "Innovación y pensamiento creativo",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "",
+        "shortBio": "Coach de negocios de @liderarte en Argentina. 
+                     Business Coach at @nextinym in USA. 
+                     Formador en #ArgentinaEmprende. 
+                     Speaker. Felizmente casada.",
+        "bio": "Co-Founder, Directora de Liderarte Consultora.
+                Coach Ontológico.
+                Es miembro fundador de la ICF (International Coach Federation), capítulo Argentina.
+                Cuenta con 15 años de experiencia en coaching entrenando a clientes de 8 países.
+                Ha disertado en simposios, conferencias, charlas y seminarios en varias provincias Argentina y en EE.UU.
+                Es especialista en balance de género.
+                Ha dado capacitaciones en Clarín, Agea, Schneider Electric, Medtronic, Programa de las Naciones Unidas para el Desarrollo, Siaco S.A., Dromex S.R.L., ACSA Group by Nextel.
+                Business Coach en la empresa Nextiny Marketing en Sarasota, Florida, EE.UU.
+                Coach Facilitador en la Academia BA Emprende, Programa del Gobierno de la Ciudad de Buenos Aires.
+                Coach en la Academia Argentina Emprende, Programa del Ministerio de Producción de la Nación Argentina.
+                Posee un blog en el Diario Infobae.",
+        "tags": [
+            "Business",
+            "Coach",
+            "nextinym"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "twitter",
+                "link": "https://twitter.com/AgosFasanella"
+            }
+        ]
+    },
+
+    "18": {
+        "id": 18,
+        "featured": false,
+        "name": "Daniel Monastersky",
+        "title": "Espacios que son oportunidades",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://www.google.com.ar/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiMuOvGpvTQAhVJvZAKHVJuBEoQjRwIBw&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADaniel_Monastersky_(3347951068).jpg&psig=AFQjCNGM7hZPGCiP7OgMVHbEJwSL2NsGKg&ust=1481826104734715",
+        "shortBio": "Abogado, Especializado en Delitos Informáticos, Miembro del Consejo Asesor del Foro Mundial de Ciberseguridad",
+        "bio": "Abogado en ejercicio en la Ciudad Autónoma de Buenos Aires, Buenos Aires, Argentina.
+        Miembro del Colegio Público de Abogados de la Capital Federal (CPACF). 
+        Miembro de la Asociación Argentina de Informática Jurídica (AAIJ). 
+        Tiene un Postgrado en Derecho del Comercio Electrónico de la Universidad Oberta de Cataluña, España. 
+        Tiene un Postgrado en Derecho de la Protección de los Datos Personales de la Universidad Oberta de Cataluña, España, en conjunto con la Universidad de las Islas Baleares del mismo país. 
+        Socio Fundador y Director de TechLaw | Abogados, estudio jurídico y consultora dedicada exclusivamente a prestar servicios relativos al derecho y las nuevas tecnologías, la protección de datos y la seguridad de la información. 
+        Socio en FSA LATAM (www.fsalatam.com) Consultora en Ciberseguridad.
+        Miembro del Consejo Asesor del Foro Mundial de Ciberseguridad (www.theGFCE.com) con sede en La Haya, Holanda. 
+        Colaborador en The Global Cyber Security Capacity Centre, Oxford Martin School, University of Oxford 
+        Presidente de la ONG IQT (Ideas que Transforman), que lleva adelante la iniciativa No Encontrado (www.noencontrado.org) y el Captcha Solidario.
+        Co-Coordinador y Representante para Argentina de la Iniciativa Stop, Think, Connect (Para, Piensa, Conectate). Es una iniciativa de La National Cyber Security Alliance (NCSA) y el Anti-Phishing Working Group (APWG) cuyo fin es definir un mensaje para lograr que los ciudadanos estén seguros y protegidos cuando se encuentren conectados a Internet. El objetivo es desarrollar e implementar un plan de difusión universal respecto de la protección y seguridad en Internet y con el objetivo de alertar y concientizar a los usuarios. 
+        Miembro de ADIAR, Asociación de Derecho Informático de Argentina. 
+        Miembro del Comité Académico de Segurinfo Argentina. 
+        Miembro de la Comisión Directiva de la iniciativa Argentina Cibersegura | www.argentinacibersegura.org 
+        Miembro del Grupo de Expertos en Seguridad y Legislación Informática (GESI) de la Oficina Nacional de Tecnologías de Información de Argentina (ONTI) de la Jefatura de Gabinete de Ministros de la República Argentina. 
+        Fue Vicepresidente de la Comisión de Derecho Informático de la Asociación Argentina de Usuarios de la Informática y las Comunicaciones (USUARIA). 
+        Miembro del Antiphishing Working Group (www.apwg.org) 
+        Co-organizador del 7mo Counter eCrime Operations Summit (CECOS VII) del Antiphishing Working Group (APWG). Abril 2013. http://www.apwg.com/ apwg-events/cecos2013es 
+        Investigador y analista de SecDEV (www.secdev.ca) dedicado a la temática del cibercrimen y ciberterrorismo, con sede en Toronto, Canadá. El ultimo paper realizado será publicado en breve por el Massachusetts Institute of Technology (MIT). 
+        Consultor de la Provincia de San Luis, Argentina, en temas relacionados con la concientización y políticas sobre el uso responsable de la web y la prevención de delitos por medios digitales. 
+        Fundador y Director de identidadrobada.com, sitio dedicado a la prevención de fraudes y delitos a través de Internet (www.identidadrobada.com). 
+        Fundador y Director de identidadrobada.cl, sitio dedicado a la prevención de fraudes y delitos a través de Internet (versión chilena | 2007-2010). 
+        Secretario del Instituto Iberoamericano de Investigación para la Sociedad de la Información (www.ibero-americano.org). 
+        Asesor ad-honorem del Programa Nacional de Inclusión Digital del INADI (Instituto Nacional de Lucha contra la Xenofobia y el Racismo) 2008. 
+        Representante ante ICANN (Internet Corporation for Assigned Names and Numbers) de los usuarios de internet de América Latina y el Caribe. (ago 2008-dic 2010). 
+        Colabora permanentemente en temas relacionados con el derecho de las nuevas tecnologías, delitos informáticos y protección de los datos personales en Infobae, C5N, Todo Noticias, Diario El Mercurio de Chile, Clarín, La Nación, Reader Digest, Noticias, Para Ti, Fortuna, Perfil, La Nación, NTN24, CNN en Español, BBC, Wall Street Journal, Univision, entre otros. 
+        Productor y Columnista del programa radial Identidad Online, dedicado a la prevención del cibercrimen y la protección de los datos 2007-2008. 
+        Desde el año 1996 al 2000 fue Productor Ejecutivo en programas dedicados al Periodismo Científico en audiciones radiales y televisivas de Argentina ( Radio El Mundo - Plus Satelital – TV SAT ). 
+        Designado por ALADI (Asociación Latinoamericana de Integración) como consultor argentino para el proyecto de Acuerdo Regional sobre Firma Digital (2006) 
+        Colaboró como asesor en el proyecto de ley para regular el Robo de Identidad Digital en Argentina y demás proyectos relacionados con la temática de la protección de datos, seguridad de la información y delitos informáticos. 
+        Colaboró en calidad de asesor/experto del Honorable Senado de la Nación en uno de los proyectos de ley para regular el ciberacoso infantil (Grooming) en la Argentina. 
+        Fue designado Miembro del Comité Académico del XV Congreso Iberoamérica de Derecho Informático realizado en Buenos Aires, Argentina (Octubre 2011) 
+        Director de la revista Identidad Robada (2007-2009). 
+        Productor y Columnista del programa Área Protegida, una iniciativa de Argentina Cibersegura. FM Identidad www.fmidentidad.com (Enero 2012-2013). 
+        ",
+        "tags": [
+            "legales",
+            "ONG"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://www.twitter.com/identidadrobada"
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "featured": false,
+        "name": "Belen Alegre",
+        "title": "Web programming Do's & Don'ts",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAQWAAAAJGZiZmEzMDg1LTk1MDEtNGRmNC1iODcwLTQzOGI5Yzc2MjJhNw.jpg",
+        "shortBio": "Entusiasta de la tecnología. Web Developer y Scrum Master. Apasionada de las metodologías ágiles aplicadas al desarrollo. Coach de tecnología. Ingeniera electrónica, por vocación no por título.",
+        "bio": "Hace más de 10 años, comencé en el desarrollo web, como backend dev, con el tiempo y motivada por la curiosidad por las nuevas tecnologías, comencé a realizar pequeños juegos para niños en javascript, ganando experiencia en frontend. Hoy, lidero equipos de desarrollo, donde buscamos         siempre la mejor solución para cada proyecto, apoyándonos en las últimas tecnologías.
+                Tengo pasión por la docencia y hace mas de 5 años, formo parte de cátedras de programación y algoritmos, transmitir experiencias y conocimientos es fundamental para que más personas se apasionen por la tecnología.",
+        "tags": [
+            "fullstack",
+            "frontend",
+            "backend"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "Twitter",
+                "name": "Twitter",
+                "link": "https://www.twitter.com/mbalegre"
+            },
+            {
+                "icon": "Linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/mbelenalegre"
+            }            
+        ]
+    },
+
+    "20": {
+        "id": 20,
+        "featured": false,
+        "name": "Hernan Liendo",
+        "title": "Bots over Google Cloud Platform",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://developers.google.com/experts/img/user/111008679142234021509.jpg",
+        "shortBio": "Cloud GDE, CTO de BotMaker",
+        "bio": "Long Cloud GDE!",
+        "tags": [
+            "GDE",
+            "CTO",
+            "cloud"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/hernanliendo"
+            }
+        ]
+    },
+
+    "21": {
+        "id": 21,
+        "featured": false,
+        "name": "Carolina Gorosito",
+        "title": "Cómo desarrollar una cultura ágil y creativa?",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAjqAAAAJGNmMmYyNmNjLWU4ZjQtNGZkYy05YzA5LTA4ZTZmMzMzMmZjNA.jpg",
+        "shortBio": "Agile coach + creative change agent",
+        "bio": "Agile coach + creative change agent
+                Carolina es conectora por naturaleza, encuentra las fortalezas de las personas y las ayuda a combinarlas para obtener los mejores resultados en equipo. Su misión como agile coach y agente creativa es guiar a los equipos en su evolución ágil hacia la excelencia, auto organización, innovación y alto rendimiento dentro de las empresas.
+                Actualmente trabaja en Etermax facilitando la fluidez de los procesos creativos hacia la agilidad.",
+        "tags": [
+            "cultura",
+            "creatividad"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "Linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/carolinagorosito"
+            }
+        ]
+    },
+
+    "22": {
+        "id": 22,
+        "featured": false,
+        "name": "Romina Cragnolino",
+        "title": "Del código al negocio.",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAKDAAAAJDk4ZmQ0YzA4LTExMjYtNDc2My1hZTAzLTE0M2NmZjYyOTk0MA.jpg",
+        "shortBio": "Romina Cragnolino, consultora en marketing y comunicación, emprendedora, promueve el community enablement. Es socia fundadora de ASEA. En 2015 ganó Edu4me por su proyecto Medic-link.net.",
+        "bio": "Cuenta con más de 15 años en el mundo digital y varios posgrados, 2 premios amdia. Con más de 10 años de experiencia corporativa manejó la comunidad de desarrolladores de Microsoft para toda Latam durante 5 años. Hace casi una década comenzó con su consultora de marketing y comunicación.",
+        "tags": [
+            "",
+            "",
+            ""
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/shomilin"
+            },
+            {
+                "icon": "Linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/rominacragnolino"
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "featured": false,
+        "name": "María Alejandra Trozzi",
+        "title": "Cloud Computing & Mobile Apps",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://drive.google.com/file/d/0B9UyrPlcOHw4YktLYm44SWE4Qjg/view?usp=sharing",
+        "shortBio": "Ingeniera en Sistemas de Información. Arquitecta Senior en Pampa Energia S.A. desde 2009, implementando tecnologías Cloud y Mobile desde 2013.",
+        "bio": "En Pampa Energia (ex Perez Companq y Petrobras) me desempeñé como Programadora, Analista y Líder de Desarrollo por casi 6 años en tecnologías Web y posteriormente como Arquitecta por los últimos 9 años.
+                Anteriormente, como Consultor, tuve la oportunidad de introducirme en el apasionante mundo del desarrollo y trabajar tanto con tecnologías Microsoft como Java y J2EE.",
+        "tags": [
+            "Cloud",
+            "Computing",
+            "Mobile"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "Linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/maría-alejandra-trozzi-8694775"
+            }
+        ]
+    },
+
+    "24": {
+        "id": 24,
+        "featured": false,
+        "name": "Laura Puricelli",
+        "title": "Desarrollo de software desde la perspectiva del cliente interno",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZjAAAAJGUxN2M2MTk3LTQ5OWYtNGJjNC05MjIzLTQxMDY4ZDJhZWI3Zg.jpg",
+        "shortBio": "Ingeniera en Electrónica. Experiencia en la industria de canales de televisión por cable de entretenimiento e infantiles desde la dirección de operaciones, ingeniería de procesos y soporte técnico.",
+        "bio": "Ingeniera en Electrónica egresada de la UBA. Trabajó en Encompass Digital Media durante 6 años, en el área de soporte técnico e ingeniería de procesos para el tratamiendo de contenidos digitales y la originación de señales de cable de entretenimiento e infantiles. Actualmente directora de operación de canales en Turner.",
+        "tags": [
+            "Desarrollo",
+            "software",
+            "perspectiva"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "Linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/lauranoemipuricelli"
+            }
+        ]
+    },
+
+    "25": {
+        "id": 25,
+        "featured": false,
+        "name": "Andie Szwarc Amsel",
+        "title": "¿Cómo dar a conocer mi emprendimiento? Marketing online para emprendedores.",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "http://omlatam.com/wp-content/uploads/2015/05/Andie-Szwarc-360x360.jpg",
+        "shortBio": "Curadora de Cultura Digital e Innovación en el Centro Cultural San Martín y especialista en marketing online.",
+        "bio": "Andie Szwarc Amsel es especialista en marketing online y creativa publicitaria. Apasionada por la innovación, el emprendedurismo, las nuevas tecnologías y el networking.
+                Trabajó en agencias líderes de la región (GlobalMind, Leo Burnett y Havas) manejando la estrategia digital de marcas como Samsung, LAN y Vanish, entre otras. 
+                También fundó y administra el grupo de Facebook “Community Managers Argentina” y fue invitada como oradora y jurado en varios eventos, tales como: Campus Party, Global Entrepreneurship Week, Facebook Training Day, Social Media Day, Encuentro Latinoamericano de Diseño, Noche de la Cultura Digital y Premios Iberoamericanos de Social Media.
+                Actualmente se desempeña como Curadora de Cultura Digital e Innovación en el Centro Cultural San Martín.",
+        "tags": [
+            "Marketing",
+            "Emprendedoes"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/andie_sa"
+            }
+        ]
+    },
+
+    "26": {
+        "id": 26,
+        "featured": false,
+        "name": "Valeria Viva",
+        "title": "Intra & entrepreneurship",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://pbs.twimg.com/profile_images/725174895328542721/BwT4LAez.jpg",
+        "shortBio": "Ingeniera, tecnóloga, emprendedora. Parte de Women Techmakers",
+        "bio": "Ingeniera en sistemas UTN, Master en negocios, postgrado en Herramientas virtuales de aprendizaje. 
+                Más de 15 años de experiencia en diversas empresas de tecnología. Proyectos de desarrollo en 10 países.
+                Formadora en Academia Argentina Emprende. Emprendedora. Directora en Ser 2.0",
+        "tags": [
+            "Marketing",
+            "Emprendedoes"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/valeriaviva"
+            }
+        ]
     }
+
 }
