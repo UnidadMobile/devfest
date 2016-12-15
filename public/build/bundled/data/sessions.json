@@ -1,0 +1,262 @@
+{
+  "101": {
+    "id": 101,
+    "title": "Design Sprints en práctica",
+    "description": "Design Sprints es un proceso de 2 a 5 días de duración para responder preguntas críticas de negocios a través del diseño, creación de prototipos y pruebas de ideas incorporando distintos participantes de una empresa como desarrolladores, expertos de productos, diseñadores, marketing etc. Creado por Google Ventures, es un método para desarollar estrategias de negocios, innovación, análisis del comportamiento de usuarios, diseño, entre otros -. En resumen, es un proceso de prueba de batalla que cualquier equipo de trabajo puede usar. Trabajar juntos en un Sprint hace posible atajar los interminables debates y comprimir meses de desarrollo en una sola semana. En lugar de esperar a lanzar un 'producto mínimo' para concluir si una idea es buena, se obtienen datos claros a partir de un prototipo realista. El Sprint brinda un superpoder: un equipo de trabajo puede avanzar rápidamente para ver su producto final y las reacciones de los clientes, antes de hacer cualquier desarrollo de código.",
+    "speakers": [
+      1
+    ],
+    "language": "Español",
+    "tags": [
+      "UX"
+    ]
+  },
+  "12": {
+    "id": 12,
+    "title": "TBD",
+    "description": "",
+    "speakers": [
+      1
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+  "13": {
+    "id": 13,
+    "title": "Modern Dev Tools for Modern JavaScripters",
+    "description": "Un repaso sobre todas las tecnologías y herramientas que necesitan los desarrolladores javascript a la hora de programar aplicaciones web/mobile. Optimizar performance, automatizar procesos, estandarización y calidad de código, son muchas de los beneficios que podemos obtener a través de un determinado set de herramientas de fácil implementación.",
+    "speakers": [
+      6
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  }
+  ,
+  "14": {
+    "id": 14,
+    "title": "Testing automation aplicado a UX",
+    "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio.En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.",
+    "speakers": [
+      
+    ],
+    "language": "Español",
+    "tags": [
+      "UX"
+    ]
+  },
+  "15": {
+    "id": 15,
+    "title": "Creando una SPA con Angular 2 y ASP.NET Core",
+    "description": "En la charla vamos a ver como configurar Angular 2 en un projecto de ASP.NET Core para crear una single page application. Como parte de la misma, aparte de mostrar como hookear Angular 2, vamos a ver como manejar rooting y llamadas a una Web API.",
+     "speakers": [
+      5
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  },
+  "21": {
+    "id": 21,
+    "title": "Un quinto de siglo y un poco más",
+    "description": "En esta charla se hablará acerca de la historia de la Web y cómo evolucionó desde sus principios desde un punto de vista del desarrollador, mostrando en contraste la creciente relevancia de JavaScript",
+    "speakers": [
+      3
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  },
+  "22": {
+    "id": 22,
+    "title": "Hey Google! In action",
+    "description": "Google Assistant, el asistente virtual de Google acaba de presentar las actions. Una manera simple y poderosa de extender su comportamiento y hacer que el asistente responda a nuestros propios comandos y nos permita entablar una comunicación con las personas muy fácilmente. En la charla vamos a mostrar el funcionamiento del asistente y a desarrollar nuestras propias acciones para que, por ejemplo, nos sepa contestar si este finde pinta bien para un asado.",
+    "speakers": [
+      7
+    ],
+    "language": "Español",
+    "tags": [
+      "Web",
+      "cloud"
+    ]
+  },
+  "23": {
+    "id": 23,
+    "title": "Un monolito suelto en AWS",
+    "description": "Les contamos nuestra experiencia adaptando un monolito a la evolución del negocio. ",
+    "speakers": [
+      
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  }
+  ,
+  "24": {
+    "id": 24,
+    "title": "Microservicios en todos lados",
+    "description": "Estamos yendo hacia un mundo donde cada pieza modularizable de nuestro código es un microservicio, independiente, fácil de reemplazar y escalable. Si bien esto suena algo ideal, por si sólo esta lejos de serlo. Cómo podemos mover tantas piezas entre diferentes ambientes de manera homogénea y predecible? Cómo orquestamos la comunicación entre cada servicio? Durante esta charla intentaremos responder algunas de estas cuestiones y otros “costos ocultos” a la hora de implementar microservicios.",
+    "speakers": [
+      10
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  },
+  "25": {
+    "id": 25,
+    "title": "El código es dato y viceversa",
+    "description": "Un programa no es tan distinto a los datos que utiliza. Qué no son todos unos y ceros (?). En esta nota de color hecha charla vemos qué significa este concepto y algunos de los lugares en los que aparece. Ataques informáticos, lenguajes tipados y la eterna batalla entre el código explícito y el implícito. Acompañame y veamos estos patrones que están allí aunque no siempre pensemos en ellos.",
+     "speakers": [
+      9
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  },
+  "31": {
+    "id": 31,
+    "title": "TBD",
+    "description": "TBD",
+    "speakers": [
+      
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+  "32": {
+    "id": 32,
+    "title": "Android & Firebase the perfect couple",
+    "description": "introduccción al uso de las bondades de firebase para el desarrollo de aplicaciones móviles para android. ",
+    "speakers": [
+      8
+    ],
+    "language": "Español",
+    "tags": [
+      "Android",
+      "Firebase"
+    ]
+  },
+  "33": {
+    "id": 33,
+    "title": "Un tour Por Visual Studio Team Fundation Services",
+    "description": "No es un IDE, que es todo lo demás. Visual Studio Team Services proporciona un conjunto de herramientas de colaboración en la nube potencia que trabajan con su editor o IDE existente, por lo que su equipo puede trabajar eficazmente en proyectos de software de todas las formas y tamaños.",
+    "speakers": [
+      4
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  }
+  ,
+  "34": {
+    "id": 34,
+    "title": "TBD",
+    "description": "",
+    "speakers": [
+      
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+  "35": {
+    "id": 35,
+    "title": "De Git a CI/CD - Sucio y Desprolijo",
+    "description": "Comenzaremos la charla explicando git y se presentará un caso de uso simple para luego embarcarnos en un proceso de integración + delivery continuo, para proyectos web.",
+     "speakers": [
+      11
+    ],
+    "language": "Español",
+    "tags": [
+      "Web"
+    ]
+  },
+  "41": {
+    "id": 41,
+    "title": "TDB",
+    "description": "",
+    "speakers": [
+      
+    ],
+    "language": "Español",
+    "tags": [
+      "bots"
+    ]
+  },
+  "42": {
+    "id": 42,
+    "title": "TBD",
+    "description": "",
+    "speakers": [
+      1
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  }
+  ,
+  "0": {
+    "id": 0,
+    "title": "Aurelia.js + Node.js.",
+    "description": "El workshop constaría de 2 partes: Una pequeña API REST creada con el framework loopback (Strongloop) y una Single Page Application que consumiría dicha API REST implementada en Aurelia.js + Node.js. La idea es mostrar en forma genérica como se utiliza loopback y luego una pequeña app que se ha creado para el workshop para todo esto contaríamos con un repositorio en GitHub que los chicos que asistan se bajarán para probarlo en sus máquinas.",
+     "speakers": [
+    ],
+    "language": "Español",
+    "tags": [
+      "workshop",
+      "web"
+    ]
+  },
+  "16": {
+    "id": 16,
+    "title": "Alumerzo =) ",
+    "description": "",
+    "language": "Español",
+    "tags": [
+      "Android"
+    ]
+  },
+  "51": {
+    "id": 51,
+    "title": "AngularFire2: Full Stack Developer",
+    "description": "Angular 2 es el nuevo super framework de google, y con firebase se pueden hacer cosas increibles... pasaremos por Web/Mobile/Desktop/Bluetooth/IOT ... para ver algunas demos y cosas que tiene Angular2 y lo potenciaremos con el gran poder de firebase",
+     "speakers": [
+      2
+    ],
+    "language": "Español",
+    "tags": [
+      "angular2",
+      "Web",
+      "IOT",
+      "Firebase",
+      "Web Bluetooth",
+      "serviceworkers",
+      "Android"
+    ]
+  },
+  "52": {
+    "id": 52,
+    "title": "TBD",
+    "description": "",
+     "speakers": [
+    ],
+    "language": "Español",
+    "tags": [
+      "producto"
+    ]
+  }
+}

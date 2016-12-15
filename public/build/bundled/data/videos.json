@@ -1,0 +1,38 @@
+[
+  {
+    "youtubeId": "ZBK39HUKecQ",
+    "title": "Google Full Stack Developer",
+    "speakers": "Jorge Cano",
+    "thumbnail": "/images/sessions/jcano.png"
+  },
+  {
+    "youtubeId": "Ph5RpLYMJ9s",
+    "title": "Construyendo apps para los siguientes mil millones",
+    "speakers": "Francisco Solsona",
+    "thumbnail": "/images/sessions/fsolsona.png"
+  },
+  {
+    "youtubeId": "h8azyL4MRHw",
+    "title": "Algo sobre la web",
+    "speakers": "Jonatan Ariste",
+    "thumbnail": "/images/sessions/jariste.png"
+  },
+  {
+    "youtubeId": "tHAzKAgA5BM",
+    "title": "Los 7 arquetipos de la tecnología moderna",
+    "speakers": "Nicolas Bortolotti",
+    "thumbnail": "/images/sessions/nbortolotti.png"
+  },
+  {
+    "youtubeId": "_eBxeMDDitI",
+    "title": "Android Wear y Google Fit",
+    "speakers": "Matias Molinas",
+    "thumbnail": "/images/sessions/mmolinas.png"
+  },
+  {
+    "youtubeId": "pu6gJlf4wCQ",
+    "title": "#DevFestBaires 2015 - Cierre",
+    "speakers": "Juan Urungaray",
+    "thumbnail": "/images/sessions/cierre.png"
+  }
+]

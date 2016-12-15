@@ -1,0 +1,202 @@
+{
+  "firebase": {
+    "name": "hoverboard-master",
+    "domain": "hoverboard-master.firebaseapp.com",
+    "database": "https://devfest-2016-e4d3a.firebaseio.com/",
+    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "userSessionsPath": "/userSessions"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "DevFest Baires 2015",
+          "youtubeId": "vL7dAVihuPI",
+          "text": ""
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    }
+  ],
+  "url": "https://devfest.com.ar/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "https://drive.google.com/file/d/0ByoQ8u8IrvxGSnFUNWpVTkc4QUlQdTBnTGplNlRiSU8xX0pn/view?usp=sharing",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "Español",
+      "key": "es"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "https://drive.google.com/file/d/0ByoQ8u8IrvxGSnFUNWpVTkc4QUlQdTBnTGplNlRiSU8xX0pn/view",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "contacto@gdg.com.ar",
+        "url": "mailto:contacto@gdg.com.ar"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://devfest16.eventbrite.com/?aff=web",
+    "elements": [
+      {
+        "name": "early-ticket",
+        "price": 0,
+        "currency": "$",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 600,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 30,
+      "caption": "sessions"
+    },
+    {
+      "counter": 3,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "DevFestBA",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "GDGBsas",
+      "url": "https://twitter.com/gdgbsas"
+    },
+    {
+      "name": "gplus",
+      "nickname": "gtugar",
+      "url": "https://plus.google.com/+gtugar"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGBsas",
+      "url": "https://www.facebook.com/gdgbsas"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "3572623",
+      "url": "https://www.linkedin.com/company/3572623"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://drive.google.com/drive/folders/0Bzuw1cvTH9kkY3MtWVNJbnBZams",
+    "photos": {
+      "big": "/images/home_images/DSCN7995.jpg",
+      "small": [
+        "/images/home_images/IMG_9066.jpg",
+        "/images/home_images/DSCN8018.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "AIzaSyCp4KyC17-z6UgqnVgpxQj_8RuJP-GbO8E",
+    "link": "https://www.facebook.com/expopivdennij",
+    "pointer": {
+      "latitude": -34.617178,
+      "longitude": -58.381962,
+      "zoom": 15
+    },
+    "mapCenter": {
+      "latitude": -34.6156709,
+      "longitude": -58.3658899
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLCDIutLaQECO8QCyA6k4HckQcLadK1RfB",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "vL7dAVihuPI"
+  }
+}

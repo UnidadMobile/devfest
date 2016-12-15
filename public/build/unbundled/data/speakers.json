@@ -1,0 +1,378 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Michael Dorka",
+        "title": "Líder del equipo de usabilidad e investigación de usuarios de despegar.com",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/09a/23f/2732e27.jpg",
+        "shortBio": "Actualmente Michael es el líder del equipo de usabilidad e investigación de usuarios de despegar, uno de los Google developer experts de UX/UI, sprintmaster de Google design sprints y mentor del programa launchpad. El tiene más de 6 años de experiencia como socio y fundador de varios start-ups internacionales y más de 18 años de experiencia como diseñador y consultor profesional de UX.",
+        "bio": "Actualmente Michael es el líder del equipo de usabilidad e investigación de usuarios de despegar, uno de los Google developer experts de UX/UI, sprintmaster de Google design sprints y mentor del programa launchpad. El tiene más de 6 años de experiencia como socio y fundador de varios start-ups internacionales y más de 18 años de experiencia como diseñador y consultor profesional. Después de graduarse en Köln International School of Design y de trabajar más de 5 años como Director Creativo en diferentes agencias de publicidad en Alemania, se dedicó a Arquitectura Informática, Diseño de Interfaces y Diseño de Experiencia de Usuario. Trabajó como consultor para Vodafone Global, como diseñador de experiencia de usuario para la Telekom Alemana Laboratorios de la Telekom Alemana, T-Home y T-mobile. En 2010 Michael ganó el concurso internacional IF Design award para el desarrollo del teléfono inalámbrico Sinus A201 de la Telekom alemana. En 2008 Michael Dorka ganó la Beca EXIST del Ministerio Federal de Economía y Tecnología en Alemania. Investigó sobre servicios de tecnología móvil en Japón y trabajó como consultor de nuevas tecnologías para el Ministerio de Tecnología y Economía alemán.Michael publicó artículos en el sitio web del Design Research Network, en el libro Public Design, en la revista de diseño Tipografica y en el diario Buenos Aires Daily Herald. Dio clases en la carrera de Diseño de Interfaces en Köln International School of Design (KISD), en la Universidad de Buenos Aires (UBA), en la Universidad de La Plata (UNLP) y en Musashino Art University, Tokyo (MAU).",
+        "tags": [
+            "UX",
+            "UI",
+            "Material Design"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://ar.linkedin.com/in/michaeldorka"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Jorge Cano",
+        "title": "Angular Developer Expert",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://pbs.twimg.com/profile_images/807699331633598464/A_9pIQ6d.jpg",
+        "shortBio": "Angular Developer Expert",
+        "bio": "Después de más de 9 años desarrollando, Jorge es un full stack developer avocado a las tecnologías en javascript. Hoy en dia Jorge es Director de “departamento de nuevas tecnologías” en el cual prueba y decide qué tecnologías utilizar para brindar el mejor servicio performance y seguridad con Angular / Angular 2 / Firebase y otras tecnologías de punta… Profesor de varios cursos relacionados a javascript, Google Developer Expert en tecnologías web y Angular Developer Expert , speaker internacional, y escritor de artículos técnicos.",
+        "tags": [
+            "AngularJS",
+            "Angular 2",
+            "Nativescript",
+            "Ionic 2",
+            "Firebase",
+            "Javascript",
+            "TypeScript"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Angular Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/jorge-cano"
+            }
+        ],
+        "socials": [
+
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/jorgeucano"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://plus.google.com/+YonatanLevin"
+            },
+            {
+                "icon": "linkedin",
+                "name": "Linkedin",
+                "link": "https://ar.linkedin.com/in/jorge-cano-06441015"
+            },
+            {
+                "icon": "web",
+                "name": "medium",
+                "link": "https://medium.com/@jorgeucano"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Alejandro Oviedo",
+        "title": "Senior Developer Evangelist Connected Home",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/490234428648468480/nNVw_w5e_400x400.jpeg",
+        "shortBio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
+        "bio": "Alejandro es un desarrollador que disfruta aprender cosas nuevas. Le encanta la educación, la electrónica, el Open Source y los eventos enfocados en la comunidad. También ayuda a organizar NodeConf Argentina y el meetup de Node de Buenos Aires",
+        "tags": [
+            "Developer"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/a0viedo"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Germán Küber",
+        "title": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://avatars3.githubusercontent.com/u/12403766?v=3&s=460",
+        "shortBio": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End..",
+        "bio": "Desarrollador Back-End, siempre focalizando en el ecosistema Microsoft y más de 2 años trabajando con tecnologías Front-End. Trabaja como Desarrollador en Majestic. Es MSP (Microsoft Student Partner) y también organizador de la comunidad de Net-Baires. Apasionado por: C#, Angular, TypeScript, JavaScript y la arquitectura de software.",
+        "tags": [
+            "C#",
+            "AngularJS",
+            "TypeScript",
+            "Javascript"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter+",
+                "link": "https://www.twitter.com/germankuber"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Nicolás Bello Camilletti",
+        "title": "Full-Stack Developer (C# y node.js) en Southworks, Microsoft MV",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://pbs.twimg.com/profile_images/476473056521494528/FT8wwFWX.jpeg",
+        "shortBio": "Full-Stack Developer (C# y node.js) en Southworks, Microsoft MVP",
+        "bio": "Nicolás es Ingeniero en Informática y Licenciado en Sistemas. Trabaja como Full-Stack Developer en Southworks. Aparte de esto, es Microsoft MVP. Normalmente trabaja con las últimas tecnologías especialmente relacionadas con Cloud Computing y Web Development usando C# y Node.js. Además organiza los meetups de Cloud Computing, Net-Baires y ASP.NET Community Standup LATAM.",
+        "tags": [
+            "JavaScript",
+            "C#",
+            "Node.js",
+            "Angular 2",
+            "Cloud"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/nbellocam"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Ignacio Anaya",
+        "title": "Full stack software engineer, mentor de programación y jugador de hockey.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://en.gravatar.com/userimage/49947178/380bb9101105924899f908052be50620.jpg?size=400",
+        "shortBio": "Full stack software engineer, mentor de programación y jugador de hockey.",
+        "bio": "Trabajo hace 8 años como Full Stack Developer desarrollando soluciones web & mobiles para diferentes industrias. Me encanta todo lo relacionado con JavaSctipt, Node.js y el software Open Source. Me dedico tambien a la docencia, haciendo coaching tecnico para empresas y mentoring de alumnos y futuros programadores.",
+        "tags": [
+            "JavaScript",
+            "Node.js"
+        ],
+        "badges": [
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ianaya89"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/ianaya89s"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://ar.linkedin.com/in/ianaya89"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": false,
+        "name": "Leonardo Pittelli",
+        "title": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/565864173695799296/gnLfbOUK.jpeg",
+        "shortBio": "Ingeniero en informática. Google Developer Expert para cloud. Hace varios años trabajando como web developer con foco en frontend, performance y optimización.",
+        "bio": "Soy fanático de las tecnologías web. Trabajo desarrollando soluciones web y mobile hace varios años, con gran foco en la experiencia de usuario.He conducido equipos de desarrollo, tomando decisiones tecnológicas y fomentando la innovación a través de diferentes iniciativas.Me divierte descubrir nuevas tecnologías, elegir la más adecuada para cada proyecto y compartir conocimiento y experiencias con los demás.Además, soy Ingeniero en informática de la UBA y Google Developer Expert para cloud.",
+        "tags": [
+            "Progressive Web Apps",
+            "Cloud",
+            "Web"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Cloud Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/leonardo-pittelli"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/leopittelli"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Yury Camacho",
+        "title": "Ingeniero de Sistemas, Android Dev, manager del GDG Cochabamba , Mobile Technical Lead en Globant.",
+        "company": "",
+        "companyLogo": "",
+        "country": "Cochabamba, Bolivia",
+        "photoUrl": "https://scontent.xx.fbcdn.net/v/t31.0-8/14691261_10209419344833314_3345453187675846396_o.jpg?oh=a7ef1397009b5674d042fb19953295ab&oe=58B17AAD",
+        "shortBio": "Ingeniero de Sistemas, Android Dev, manager del GDG Cochabamba , Mobile Technical Lead en Globant.",
+        "bio": "Ingeniero de sistemas con mas de 6 años de experiencia en el del desarrollo, móvil, es manager del GDG Cochabamba,  y actualmente trabaja en Globant como líder técnico de desarrollo móvil para Android y IOS.",
+        "tags": [
+            "Android",
+            "Mobile",
+            "SCRUM"
+        ],
+        "badges": [
+            {
+                "name": "GDG",
+                "description": "Google Developer Groups Cochabamba",
+                "link": "https://developers.google.com/groups/chapter/107589533385257090652/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/camachoyury "
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": false,
+        "name": "Hernán Rajchert",
+        "title": "Ing. Informático, CTO en Acamica",
+        "company": "Acamica",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://pbs.twimg.com/profile_images/689837853979840512/aNDnt-ps_400x400.jpg",
+        "shortBio": "Ing. Informático, CTO en Acamica",
+        "bio": "Su hobby es coleccionar hobbies, bajista, jardinero orgánico, cultivador de hongos y comediante de standup fracasado. Developer de pequeño, Hernán estudió electrónica en la secundaria e informática en la facultad. Trabajó en diferentes start ups, ahora trabaja como CTO en Acamica, una academia online interactiva para aprender a programar.",
+        "tags": [
+            "Js",
+            "RxJs",
+            "AngularJS",
+            "Redux",
+            "Node",
+            "FP"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/sherman3ero"
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Mariano Vazquez",
+        "title": "Full-stack developer @ MuleSoft",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "http://netconf.uy/Content/images/demo/speakers/MarianoVazquez.jpg",
+        "shortBio": "Full-stack developer @ MuleSoft",
+        "bio": "Full-stack developer en MuleSoft. Organizador del meetup Buenos-Aires-Cloud-Computing. Ha trabajado como vendor para Microsoft en equipos como P&P (Patterns & Practices) y DPE (Developer and Platform Evangelist).",
+        "tags": [
+            "Node.js",
+            "AngularJS",
+            "React",
+            "Web",
+            ".NET"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/marianodvazquez"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "github.com/nanovazquez"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "Eduardo Casarero",
+        "title": "Sr. Sysadmin en Percona, COO de sysarmy. ",
+        "company": "",
+        "companyLogo": "",
+        "country": "Buenos Aires, Argentina",
+        "photoUrl": "https://scontent-eze1-1.xx.fbcdn.net/t31.0-8/13528424_1041023715934117_8180907067702140383_o.jpg",
+        "shortBio": "Sr. Sysadmin en Percona, COO de sysarmy.",
+        "bio": "Sr. Sysadmin, integra el equipo de Infraestructura de Percona desde hace 2 años. Trabajó siempre en áreas de soporte e infraestructura de diversos tipos de compañías, siempre orientado a tecnologías open source. También es el COO de sysarmy, 'El soporte de los que dan soporte'. ",
+        "tags": [
+            "DevOps",
+            "sysadmin",
+            "Open Source"
+        ],
+        "badges": [
+        ],
+        "socials": [
+
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/jedux"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Leonardo Otero",
+        "title": "Tiene 20 de experiencia en la industria de desarrollo de software y hoy está como desarrollador Node.js Full stack en Belatrix.",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAi4AAAAJDM3OTA0YTBkLTI1NjUtNDQ2ZC1hNjVmLTBlM2ZkZTA5NDU1MQ.jpg",
+        "shortBio": "Tiene 20 de experiencia en la industria de desarrollo de software y hoy está como desarrollador Node.js Full stack en Belatrix.",
+        "bio": "20 años de experiencia en la industria de desarrollo de software. A lo largo de su carrera ha pasado por posiciones de desarrollo, liderazgo técnico, consultoría y arquitectura de software. Cuenta con amplios conocimientos en Javascript, Node.js, Java y Python, entre otros lenguajes de programación. Inicialmente se desempeñó en Belatrix como desarrollador Node.js Full stack para una innovadora plataforma de pagos electrónicos a nivel global con sede en San Francisco. Posteriormente y gracias amplia trayectoria en la industria del desarrollo de software se desempeñó como consultor e implementador de la suite de productos middleware de una empresa partner de Belatrix. En el ámbito académico posee experiencia dictando cursos de Node.js Fundamentals e inauguró  las “Brown bag training sessions”, espacio en el que se realizan charlas periódicamente y se propone el intercambio de conocimientos de React.js en Belatrix Buenos Aires.",
+        "tags": [
+            "Node.js",
+            "SCRUM",
+            "AngularJS",
+            "Javascript"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/leonardootero"
+            }
+        ]
+    }
+}

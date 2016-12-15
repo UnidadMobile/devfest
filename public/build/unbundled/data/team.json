@@ -1,0 +1,160 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Juan Manuel Baiutti",
+        "photoUrl": "/images/people/juan-manuel-baiutti.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JuanmaBaiutti",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "@juanmab",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Project Manager, Manager de GDG Buenos Aires"
+      },
+      {
+        "name": "Yury Camacho",
+        "photoUrl": "/images/people/yury-camacho.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+YuryCamacho",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/camachoyury",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Mobile Technical Lead en Globant"
+      },
+      {
+        "name": "Jorge Cano",
+        "photoUrl": "/images/people/jorge-cano.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JorgeCanojc",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/jorgeucano",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Google Developer Expert: Web Technologies, Angular"
+      },
+      {
+        "name": "Gustavo Cardelle",
+        "photoUrl": "/images/people/gustavo-cardelle.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+GustavoCardelle",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/gu5tavo71",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Consultor IT, Manager de GDG Buenos Aires"
+      },
+      {
+        "name": "Leonardo Condori",
+        "photoUrl": "/images/people/leonardo-condori.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+LeonardoCondori",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/leocondori",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Periodista y Programador"
+      },
+      {
+        "name": "Juan Irungaray",
+        "photoUrl": "/images/people/juan-irungaray.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JuanIrungaray",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/jirungaray",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Developer Relations Program Manager @ Google, Co-Founder GDG Buenos Aires"
+      },
+      {
+        "name": "Andrés Villanueva",
+        "photoUrl": "/images/people/andres-villanueva.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+AndresVillanuevand",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/villanuevand",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Frontend Developer. ngVenezuela Community Lead &  @bairesweb Co-founder."
+      },
+      {
+        "name": "Agustina Vemi",
+        "photoUrl": "/images/people/diana_pinchuk.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+DianaPinchuk",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/diana.pinchuk.9",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Social and media"
+      },
+      {
+        "name": "Valeria Viva",
+        "photoUrl": "/images/people/valeria-viva.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+ValeriaViva",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://www.twitter.com/valeriaviva",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Ingeniera, escritora, tecnóloga y emprendedora"
+      }
+    ]
+  }
+]
