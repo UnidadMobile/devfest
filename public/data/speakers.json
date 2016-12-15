@@ -375,6 +375,7 @@
             }
         ]
     },
+
     "13": {
         "id": 13,
         "featured": false,
@@ -740,6 +741,7 @@
             }
         ]
     },
+
     "23": {
         "id": 23,
         "featured": false,
@@ -854,6 +856,32 @@
                 "link": "https://twitter.com/valeriaviva"
             }
         ]
-    }
+    },
 
+    "27": {
+        "id": 27,
+        "featured": false,
+        "name": "Maximiliano Firtman",
+        "title": "",
+        "company": "",
+        "companyLogo": "",
+        "country": "",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "",
+            ""
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "",
+                "name": "",
+                "link": ""
+            }
+        ]
+    }
 }

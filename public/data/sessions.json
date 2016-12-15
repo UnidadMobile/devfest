@@ -41,7 +41,7 @@
     "title": "Testing automation aplicado a UX",
     "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio.En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.",
     "speakers": [
-      
+      14
     ],
     "language": "Español",
     "tags": [
@@ -127,13 +127,14 @@
     "title": "TBD",
     "description": "TBD",
     "speakers": [
-      
+      27
     ],
     "language": "Español",
     "tags": [
       ""
     ]
   },
+
   "32": {
     "id": 32,
     "title": "Android & Firebase the perfect couple",
@@ -214,6 +215,7 @@
     "title": "Aurelia.js + Node.js.",
     "description": "El workshop constaría de 2 partes: Una pequeña API REST creada con el framework loopback (Strongloop) y una Single Page Application que consumiría dicha API REST implementada en Aurelia.js + Node.js. La idea es mostrar en forma genérica como se utiliza loopback y luego una pequeña app que se ha creado para el workshop para todo esto contaríamos con un repositorio en GitHub que los chicos que asistan se bajarán para probarlo en sus máquinas.",
      "speakers": [
+       12
     ],
     "language": "Español",
     "tags": [
@@ -253,10 +255,206 @@
     "title": "TBD",
     "description": "",
      "speakers": [
+       16
     ],
     "language": "Español",
     "tags": [
       "producto"
     ]
+  },
+
+  "102": {
+    "id": 102,
+    "title": "Testing automation aplicado a UX",
+    "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio.
+                    En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.
+                   ",
+     "speakers": [
+       13
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "103": {
+    "id": 103,
+    "title": "Un monolito suelto en AWS",
+    "description": "Les contamos nuestra experiencia adaptando un monolito a la evolución del negocio.",
+     "speakers": [
+       14
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "104": {
+    "id": 104,
+    "title": "Mercado de Innovación Argentina",
+    "description": "Presentación de la plataforma MIA",
+     "speakers": [
+       15
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "105": {
+    "id": 105,
+    "title": "Startups: Expectativa vs Realidad - Lo que nunca nadie se animó a contarte",
+    "description": "Ser fundador o trabajar en un Startup esta muy de moda y es muy cooooolllll, pero hay muchas cosas que uno no se imagina o no se entera, hasta que alguien de adentro te lo cuenta. En está charla, Ezequiel, Pablo y Luciano te cuentan todo lo que querés saber y que nadie se animó a contarte sobre los Startups!",
+     "speakers": [
+       16
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "106": {
+    "id": 106,
+    "title": "Innovación y pensamiento creativo",
+    "description": "- Inteligencia creativa: herramientas para entrenar tu cerebro.
+                    - Pensamiento lateral.
+                    - Técnicas de creatividad en la práctica.
+                    - La creatividad y el juego.",
+     "speakers": [
+       17
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "107": {
+    "id": 107,
+    "title": "Espacios que son oportunidades",
+    "description": "No Encontrado y el Captcha Solidario son dos de las iniciativas que lleva a cabo la ONG Ideas que Transforman.",
+     "speakers": [
+       18
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "108": {
+    "id": 108,
+    "title": "Web programming Do's & Don'ts",
+    "description": "Intro a la programación web, herramientas básicas, frontend, backend, full stack. Frameworks. ¿Cómo elegir una buena herramienta? Objetos y la web. Hacia donde va la web.",
+     "speakers": [
+       19
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "109": {
+    "id": 109,
+    "title": "Bots over Google Cloud Platform",
+    "description": "Como hacemos bot masivos!",
+     "speakers": [
+       20
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "110": {
+    "id": 110,
+    "title": "Cómo desarrollar una cultura ágil y creativa?",
+    "description": "Cómo se consigue combinar la agilidad e innovación? Hasta dónde pueden los procesos guiar a las personas? Es una utopía?",
+     "speakers": [
+       21
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "111": {
+    "id": 111,
+    "title": "Del código al negocio.",
+    "description": "Como a través del desarrollar código, poder detectar un problema o necesidad, para poder generar una solución transformable en un negocio, o simplemente, ingresar una idea al mundo emprendedor a través del código. 
+                    Puntos a tratar
+                    -Ser tu propio jefe.. garpa? 
+                    -Idea, Cómo detectar una necesidad/problema
+                    -Cómo desarrollarla , no es sólo código.. o si? 
+                    -Cómo trabajar con un CANVAS
+                    -Método LEAN Analytics> Pivotear y seguir
+                    -Modelo de negocios y avance continuo.",
+     "speakers": [
+       22
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "112": {
+    "id": 112,
+    "title": "Cloud Computing & Mobile Apps",
+    "description": "La oferta de tecnologías Cloud es amplia y variada, y ha crecido enormemente en poco tiempo. Qué es realmente ? Cómo funciona ? Cómo se diferencia de otras ofertas similares o anteriores ? Grandes Jugadores. La adopción de la nube en la Empresa ya es real. Arquitecturas de Apps Mobile. Adopción e innovación empresarial.",
+     "speakers": [
+       23
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "113": {
+    "id": 113,
+    "title": "Desarrollo de software desde la perspectiva del cliente interno",
+    "description": "Aspectos organizacionales, de comunicación, de perfiles personales y de proceso a tener en cuenta para conseguir que la relación desarrollador-cliente interno sea beneficiosa para el negocio",
+     "speakers": [
+       24
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "114": {
+    "id": 114,
+    "title": "¿Cómo dar a conocer mi emprendimiento? Marketing online para emprendedores.",
+    "description": "¿Estás desarrollando un producto excelente pero no sabés cómo darlo a conocer? ¿Querés posicionarte como un profesional destacado en tu industria? En esta charla vas a encontrar estrategias para darte a conocer, posicionarte y vender.",
+     "speakers": [
+       25
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  },
+
+  "115": {
+    "id": 115,
+    "title": "Intra & entrepreneurship",
+    "description": "Espíritu emprendedor, networking y redes de apoyo",
+     "speakers": [
+       26
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
   }
+
 }
