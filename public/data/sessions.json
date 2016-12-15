@@ -11,18 +11,20 @@
       "UX"
     ]
   },
-  "12": {
-    "id": 12,
-    "title": "TBD",
-    "description": "",
-    "speakers": [
-      1
+
+    "109": {
+    "id": 109,
+    "title": "Bots over Google Cloud Platform",
+    "description": "Como hacemos bot masivos!",
+     "speakers": [
+       20
     ],
     "language": "Español",
     "tags": [
       ""
     ]
   },
+  
   "13": {
     "id": 13,
     "title": "Modern Dev Tools for Modern JavaScripters",
@@ -34,8 +36,8 @@
     "tags": [
       "Web"
     ]
-  }
-  ,
+  },
+
   "14": {
     "id": 14,
     "title": "Testing automation aplicado a UX",
@@ -60,6 +62,49 @@
       "Web"
     ]
   },
+
+  "0": {
+    "id": 0,
+    "title": "Aurelia.js + Node.js.",
+    "description": "El workshop constaría de 2 partes: Una pequeña API REST creada con el framework loopback (Strongloop) y una Single Page Application que consumiría dicha API REST implementada en Aurelia.js + Node.js. La idea es mostrar en forma genérica como se utiliza loopback y luego una pequeña app que se ha creado para el workshop para todo esto contaríamos con un repositorio en GitHub que los chicos que asistan se bajarán para probarlo en sus máquinas.",
+     "speakers": [
+       12
+    ],
+    "language": "Español",
+    "tags": [
+      "workshop",
+      "web"
+    ]
+  }
+  ,
+  
+  "113": {
+    "id": 113,
+    "title": "Desarrollo de software desde la perspectiva del cliente interno",
+    "description": "Aspectos organizacionales, de comunicación, de perfiles personales y de proceso a tener en cuenta para conseguir que la relación desarrollador-cliente interno sea beneficiosa para el negocio",
+     "speakers": [
+       24
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  }
+  ,
+
+  "12": {
+    "id": 12,
+    "title": "TBD",
+    "description": "",
+    "speakers": [
+    ],
+    "language": "Español",
+    "tags": [
+      ""
+    ]
+  }
+  ,
+
   "21": {
     "id": 21,
     "title": "Un quinto de siglo y un poco más",
@@ -210,19 +255,7 @@
     ]
   }
   ,
-  "0": {
-    "id": 0,
-    "title": "Aurelia.js + Node.js.",
-    "description": "El workshop constaría de 2 partes: Una pequeña API REST creada con el framework loopback (Strongloop) y una Single Page Application que consumiría dicha API REST implementada en Aurelia.js + Node.js. La idea es mostrar en forma genérica como se utiliza loopback y luego una pequeña app que se ha creado para el workshop para todo esto contaríamos con un repositorio en GitHub que los chicos que asistan se bajarán para probarlo en sus máquinas.",
-     "speakers": [
-       12
-    ],
-    "language": "Español",
-    "tags": [
-      "workshop",
-      "web"
-    ]
-  },
+
   "16": {
     "id": 16,
     "title": "Alumerzo =) ",
@@ -266,9 +299,7 @@
   "102": {
     "id": 102,
     "title": "Testing automation aplicado a UX",
-    "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio.
-                    En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.
-                   ",
+    "description": "Todos los elementos que afecten a la interacción entre una persona y un producto pueden estar canalizados o conducidos de la forma en que un diseñador lo decida gracias a un proceso formal, investigativo, colaborativo y exploratorio. En esta charla abordaremos algunos enfoques del testing de UX, y cómo se pueden utilizar diferentes técnicas de QA Automation para enriquecer el control de la experiencia de usuario, obtener información más sistematizada y reutilizable para mejorarla.",
      "speakers": [
        13
     ],
@@ -320,10 +351,7 @@
   "106": {
     "id": 106,
     "title": "Innovación y pensamiento creativo",
-    "description": "- Inteligencia creativa: herramientas para entrenar tu cerebro.
-                    - Pensamiento lateral.
-                    - Técnicas de creatividad en la práctica.
-                    - La creatividad y el juego.",
+    "description": "Inteligencia creativa: herramientas para entrenar tu cerebro, Pensamiento lateral, Técnicas de creatividad en la práctica, La creatividad y el juego.",
      "speakers": [
        17
     ],
@@ -359,19 +387,6 @@
     ]
   },
 
-  "109": {
-    "id": 109,
-    "title": "Bots over Google Cloud Platform",
-    "description": "Como hacemos bot masivos!",
-     "speakers": [
-       20
-    ],
-    "language": "Español",
-    "tags": [
-      ""
-    ]
-  },
-
   "110": {
     "id": 110,
     "title": "Cómo desarrollar una cultura ágil y creativa?",
@@ -388,14 +403,7 @@
   "111": {
     "id": 111,
     "title": "Del código al negocio.",
-    "description": "Como a través del desarrollar código, poder detectar un problema o necesidad, para poder generar una solución transformable en un negocio, o simplemente, ingresar una idea al mundo emprendedor a través del código. 
-                    Puntos a tratar
-                    -Ser tu propio jefe.. garpa? 
-                    -Idea, Cómo detectar una necesidad/problema
-                    -Cómo desarrollarla , no es sólo código.. o si? 
-                    -Cómo trabajar con un CANVAS
-                    -Método LEAN Analytics> Pivotear y seguir
-                    -Modelo de negocios y avance continuo.",
+    "description": "Como a través del desarrollar código, poder detectar un problema o necesidad, para poder generar una solución transformable en un negocio, o simplemente, ingresar una idea al mundo emprendedor a través del código. Puntos a tratar-Ser tu propio jefe.. garpa? -Idea, Cómo detectar una necesidad/problema-Cómo desarrollarla , no es sólo código.. o si? -Cómo trabajar con un CANVAS-Método LEAN Analytics> Pivotear y seguir-Modelo de negocios y avance continuo.",
      "speakers": [
        22
     ],
@@ -416,21 +424,8 @@
     "tags": [
       ""
     ]
-  },
-
-  "113": {
-    "id": 113,
-    "title": "Desarrollo de software desde la perspectiva del cliente interno",
-    "description": "Aspectos organizacionales, de comunicación, de perfiles personales y de proceso a tener en cuenta para conseguir que la relación desarrollador-cliente interno sea beneficiosa para el negocio",
-     "speakers": [
-       24
-    ],
-    "language": "Español",
-    "tags": [
-      ""
-    ]
-  },
-
+  }
+  ,
   "114": {
     "id": 114,
     "title": "¿Cómo dar a conocer mi emprendimiento? Marketing online para emprendedores.",
@@ -442,7 +437,8 @@
     "tags": [
       ""
     ]
-  },
+  }
+  ,
 
   "115": {
     "id": 115,
